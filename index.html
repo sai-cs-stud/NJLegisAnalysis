@@ -1,29 +1,84 @@
 <!DOCTYPE html>
-<html lang=“en”>
+<html lang="en">
 <head>
 <title> NJ Congressional/County Data</title>
-<meta charset=“utf-8”>
-<meta name =“authors” content=“Sai-Nayan-Malladi,Justin-Ding,Nikhil-Kumar”> 
-<meta name =“description” content=“Data-Visualization-Project-to-investigate-NJ-Gerrymandering”>
-<meta name =“keywords” content=“New-Jersey,NJ,gerrymandering,county,counties,congress,congressional,districts,data”>
+<meta charset="utf-8">
+<meta name ="authors" content="Sai-Nayan-Malladi,Justin-Ding,Nikhil-Kumar"> 
+<meta name ="description" content="Data-Visualization-Project-to-investigate-NJ-Gerrymandering">
+<meta name ="keywords" content="New-Jersey,NJ,gerrymandering,county,counties,congress,congressional,districts,data">
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
 <style>
-body {
-font-family: Arial;
-margin:0;
+body, html {
+  height: 100%;
+  margin: 0;
+  font-family: Arial;
 }
 #header {
-  padding: 20px;
-  text-align: left;
-  font-family: verdana;
-  border-bottom: 4px solid purple;
+border-bottom: 5px solid purple;
+}
+.tab {
+background-color: #696969;
+color: white;
+border: none;
+float: left;
+padding: 16px 14px;
+cursor: pointer;
+font-size: 18px;
+width: 25%;
+}
+.tab:hover {
+background-color: #C0C0C0;
+}
+.tabcontent{
+display: none;
+padding: 80px 20px;
+height: 100%;
 }
 </style>
 </head>
 <body>
-<div id=“header”>
-<p>New Jersey Congressional Data</p>
+<div id="header">
+<img src="https://live.staticflickr.com/65535/48994375091_7fe896639d_c.jpg" width="758" height="142" alt=“njcongressionaldata” style=“width:500px;height:75;></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
-<div class=“content”>
+<button class="tab" onclick ="openTab('Home',this)" id= "defaultOpen">Home</button>
+<button class="tab" onclick ="openTab('Tableau',this)">Tableau</button>
+<button class="tab" onclick ="openTab('Analysis',this)">Analysis</button>
+<button class="tab" onclick ="openTab('Contact',this)">Contact</button>
+<div id="Home" class="tabcontent">
+<h2>New Jersey County and Legislative District Data</h2>
 </div>
+<div id="Tableau" class="tabcontent">
+<h2>Tableau is coming soon!</h2>
+</div>
+<div id="Analysis" class="tabcontent">
+<h2>Analysis coming soon!</h2>
+</div>
+<div id="Contact" class="tabcontent">
+<h2>Contact Information</h2>
+<address>
+Sai Nayan R. Malladi<br>
+<a href="mailto:srm275@scarletmail.rutgers.edu">srm275@scarletmail.rutgers.edu</a><br>
+<br \>
+Nikhil Kumar<br>
+<a href="mailto:nkk@scarletmail.rutgers.edu">nkk@scarletmail.rutgers.edu</a><br>
+<br \>
+Justin Ding<br>
+<a href="mailto:qd38@scarletmail.rutgers.edu">qd38@scarletmail.rutgers.edu</a>
+</address>
+</div>
+<script>
+function openTab(tabName,elmnt){
+	var i, tabcontent;
+    tabcontent=document.getElementsByClassName("tabcontent");
+    for(i=0;i<tabcontent.length;i++){
+    tabcontent[i].style.display="none";
+    }
+    document.getElementById(tabName).style.display = "block";
+}
+document.getElementById("defaultOpen").click();
+</script>
 </body>
 </html>
