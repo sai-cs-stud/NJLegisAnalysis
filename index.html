@@ -37,6 +37,9 @@ display: none;
 padding: 80px 20px;
 height: 100%;
 }
+ul.ind{
+list-style-type: circle;
+}
 </style>
 </head>
 <body>
@@ -49,7 +52,38 @@ height: 100%;
 <button class="tab" onclick ="openTab('Contact',this)">Contact</button>
 <div id="Home" class="tabcontent">
 <h2>New Jersey County and Legislative District Data</h2>
-</div>
+<h4>About</h4>
+<p>Welcome to njcongdata.info. This website contains data that may or may not explain the current state of the New Jersey 
+legislative districts. More specifically, our team has compiled data on the county and legislative district level(House of 
+Representative districts)  in order to investigate the possibility of Gerrymandering(more about Gerrymandering below). The 
+data targeted for gathering included the indicators shown below. An indicator is a quantifiable variable our team decided 
+early on in the data scraping process that may contribute to gerrymandering in New Jersey and thus was worthy enough to 
+collect and perform a statistical analysis. All of the information, both at the county and legislative district level, was 
+collected from public databases available to all. See our bibliography tab if you wish to examine where the data comes from.
+</p>
+<h6> Indicators:</h6>
+<ul class=“ind”>
+  <li>GDP</li>
+  <li>Percent unemployed</li>
+  <li>Count of S&P 500 companies</li>
+  <li>Percent of population foreign born</li>
+  <li>Average SAT/ACT scores</li>
+  <li>Average Highschool rating</li>
+  <li>Acreage of protected farmland</li>
+  <li>List will be expanded…</li>
+</ul>
+<h4>What exactly is gerrymandering?</h4>
+<p>Gerrymandering is the process in which the ruling party of government reshapes voting boundaries to favor themselves in 
+future elections. In the United States, every state in the union elects Representatives to represent the wishes of the people
+in specific geographic areas. These representatives have a duty to speak for their constituents in Washington D.C.(federal 
+capital of the country). Each state has an allotted number of representatives based on the population of the state. How the 
+districts are drawn up geographically within the state is up to the states themselves. Usually there is a neutral or 
+bipartisan committee or commission tasked with this job. However, in some situations a state government’s majority party 
+adulterates the process by forging districts that favor themselves to keep them in the majority. This can be done by making 
+boundaries that put opposition voters in one district or decreasing the opposition’s chances across many districts. Check 
+out the Washington Post video about this issue below to learn more.
+</p>
+<iframe width="560" height="315" align=“middle” src="https://www.youtube.com/embed/bGLRJ12uqmk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 <div id="Tableau" class="tabcontent">
 <h2>Tableau is coming soon!</h2>
 </div>
