@@ -27,7 +27,7 @@ float: left;
 padding: 16px 14px;
 cursor: pointer;
 font-size: 18px;
-width: 25%;
+width: 20%;
 }
 .tab:hover {
 background-color: #C0C0C0;
@@ -44,25 +44,22 @@ list-style-type: circle;
 </head>
 <body>
 <div id="header">
-<img src="https://live.staticflickr.com/65535/48994375091_7fe896639d_c.jpg" width="758" height="142" alt=“njcongressionaldata” style=“width:500px;height:75;></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<img src="https://live.staticflickr.com/65535/48994375091_7fe896639d_c.jpg" width="758" height="142" alt=“njcongressionaldata” style=“width:500px;height:75;><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
 <button class="tab" onclick ="openTab('Home',this)" id= "defaultOpen">Home</button>
-<button class="tab" onclick ="openTab('Tableau',this)">Tableau</button>
+<button class="tab" onclick ="openTab('Data',this)">Data</button>
+<button class="tab" onclick ="openTab('DataVis',this)">Data Visualized</button>
 <button class="tab" onclick ="openTab('Analysis',this)">Analysis</button>
 <button class="tab" onclick ="openTab('Contact',this)">Contact</button>
+
 <div id="Home" class="tabcontent">
-<h2>New Jersey County and Legislative District Data</h2>
+<h2>New Jersey County and Congressional District Data</h2>
 <h4>About</h4>
-<p>Welcome to njcongdata.info. This website contains data that may or may not explain the current state of the New Jersey 
-legislative districts. More specifically, our team has compiled data on the county and legislative district level(House of 
-Representative districts)  in order to investigate the possibility of Gerrymandering(more about Gerrymandering below). The 
-data targeted for gathering included the indicators shown below. An indicator is a quantifiable variable our team decided 
-early on in the data scraping process that may contribute to gerrymandering in New Jersey and thus was worthy enough to 
-collect and perform a statistical analysis. All of the information, both at the county and legislative district level, was 
-collected from public databases available to all. See our bibliography tab if you wish to examine where the data comes from.
+<p>Welcome to njcongdata.info. This website contains data that may or may not explain the current state of the New Jersey congressional districts. More specifically, our team has compiled data on the county and congressional district level(House of Representative districts)  in order to investigate the possibility of Gerrymandering(more about Gerrymandering below). The data targeted for gathering included the indicators shown below. An indicator is a quantifiable variable our team decided early on in the data scraping process that may contribute to gerrymandering in New Jersey and thus was worthy enough to collect and perform a statistical analysis. All of the information was collected from public databases available to all. See our bibliography tab if you wish to examine where the data comes from.
 </p>
+<div class="HomeCol">
 <h6> Indicators:</h6>
-<ul class=“ind”>
+<ul class="ind">
   <li>GDP</li>
   <li>Percent unemployed</li>
   <li>Count of S&P 500 companies</li>
@@ -72,23 +69,23 @@ collected from public databases available to all. See our bibliography tab if yo
   <li>Acreage of protected farmland</li>
   <li>List will be expanded…</li>
 </ul>
+</div>
 <h4>What exactly is gerrymandering?</h4>
-<p>Gerrymandering is the process in which the ruling party of government reshapes voting boundaries to favor themselves in 
-future elections. In the United States, every state in the union elects Representatives to represent the wishes of the people
-in specific geographic areas. These representatives have a duty to speak for their constituents in Washington D.C.(federal 
-capital of the country). Each state has an allotted number of representatives based on the population of the state. How the 
-districts are drawn up geographically within the state is up to the states themselves. Usually there is a neutral or 
-bipartisan committee or commission tasked with this job. However, in some situations a state government’s majority party 
-adulterates the process by forging districts that favor themselves to keep them in the majority. This can be done by making 
-boundaries that put opposition voters in one district or decreasing the opposition’s chances across many districts. Check 
-out the Washington Post video about this issue below to learn more.
+<p>Gerrymandering is the process in which the ruling party of government reshapes voting boundaries to favor themselves in future elections. In the United States, every state in the union elects Representatives to represent the wishes of the people in specific geographic areas. These representatives have a duty to speak for their constituents in Washington D.C.(federal capital of the country). Each state has an allotted number of representatives based on the population of the state. How the districts are drawn up geographically within the state is up to the states themselves. Usually there is a neutral or bipartisan committee or commission tasked with this job. However, in some situations a state government’s majority party adulterates the process by forging districts that favor themselves to keep them in the majority. This can be done by making boundaries that put opposition voters in one district or decreasing the opposition’s chances across many districts. Check out the Washington Post video about this issue below to learn more.
+<a href="https://www.state.nj.us/transportation/gis/maps/congressional1220.pdf">Click Here to see New Jersey’s congressional districts!</a>
 </p>
-<iframe width="560" height="315" align=“middle” src="https://www.youtube.com/embed/bGLRJ12uqmk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-<div id="Tableau" class="tabcontent">
-<h2>Tableau is coming soon!</h2>
+<iframe width="560" height="315" align=“middle” src="https://www.youtube.com/embed/bGLRJ12uqmk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<h4>Our Process</h4>
+<p>Our team sought to highlight New Jersey’s map through a data driven approach. Our early goal was a two-fold process. Begin gathering data on our list of indicators and update that list based on which indicators are quantifiable. As an example one of our original big idea indicators was the economy. It is possible the economy affects the drawing up of districts, but how do you quantify the economy? Perhaps local GDP? Location of large companies? Per Capita Income? There is no exact answer of course, so we increase our list by breaking down our big ideas into quantifiable variables, which we called indicators throughout this project. After this was complete, our team focused on gathering the data for these indicators. For any missing data, often unavoidable in collecting a large amount of data, we imputed where we could. Considering the maps of New Jersey’s currently active congressional map began its service in 2012, data in the years before 2012 would host the most telling information on why our maps were drawn up the way they were. However, such data was largely publicly unavailable so our data runs through 2014-2018. Using this data, we were able to both infer about the creation of the current map as well as make an estimate of the new map following restricting in 2022(New Jersey maps stay active for 10 years).TBC..</p>
+</div>
+<div id="Data" class="tabcontent">
+<h4>Coming Soon!</h4>
+</div>
+<div id="DataVis" class="tabcontent">
+<h4>Coming soon!</h4>
 </div>
 <div id="Analysis" class="tabcontent">
-<h2>Analysis coming soon!</h2>
+<h4>Coming soon!</h4>
 </div>
 <div id="Contact" class="tabcontent">
 <h2>Contact Information</h2>
