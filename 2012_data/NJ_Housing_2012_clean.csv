@@ -1,4 +1,4 @@
-County  ,Municipality  ,Residential Buiding Permits,Certificates of Occupancy,Occupied Units Paying Rent,Median Rent ($),Average Residential Property Value ($),Housing Units,Occupied Units,% Occupied Units,Owner Occupied Units,% Owner Occupied Units
+County,Municipality,Residential Buiding Permits,Certificates of Occupancy,Occupied Units Paying Rent,Median Rent ($),Average Residential Property Value ($),Housing Units,Occupied Units,% Occupied Units,Owner Occupied Units,% Owner Occupied Units
 Warren,Liberty,1,2,125,"1,375","238,258","1,151","1,047",90.96,920,87.87
 Atlantic,Brigantine,10,11,"1,257","1,143","410,655","9,222","4,294",46.56,"2,753",64.11
 Monmouth,Deal,3,6,91,"1,165","2,486,461",926,333,35.96,221,66.37
