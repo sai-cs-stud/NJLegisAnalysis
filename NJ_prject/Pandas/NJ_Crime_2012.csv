@@ -92,7 +92,7 @@ Sussex,Franklin,9,155
 Sussex,Hampton Twp,-,-
 Sussex,Byram,6,51
 Sussex,Sparta,2,186
-Burlington,Moorestown,-,-
+Burlington,Moorestown,18,490
 Sussex,Wantage,-,-
 Burlington,Pemberton Twp,102,696
 Bergen,Teterboro,0,21
@@ -106,7 +106,7 @@ Warren,Harmony,-,-
 Ocean,Lacey,18,665
 Warren,Frelinghuysen,-,-
 Union,Clark,5,153
-Ocean,Jackson,-,751
+Ocean,Jackson,48,751
 Warren,Greenwich,0,70
 Union,Fanwood,2,85
 Ocean,Island Heights,0,21
@@ -199,7 +199,7 @@ Morris,Butler,10,90
 Morris,Mount Arlington,1,35
 Morris,Mountain Lakes,0,35
 Atlantic,Estell Manor,-,-
-Atlantic,Galloway,-,674
+Atlantic,Galloway,90,674
 Hunterdon,Flemington,8,83
 Atlantic,Egg Harbor Twp,99,854
 Hunterdon,Clinton Twp,5,81
@@ -225,7 +225,7 @@ Union,Springfield,4,201
 Union,Roselle Park,8,127
 Union,Westfield,6,298
 Union,Union Twp,79,1067
-Warren,Hackettstown,-,-
+Warren,Hackettstown,12,141
 Warren,Allamuchy,-,-
 Atlantic,Weymouth,-,-
 Bergen,Alpine,0,16
@@ -252,7 +252,7 @@ Bergen,Englewood Cliffs,0,73
 Bergen,East Rutherford,8,169
 Bergen,Elmwood Park,22,352
 Bergen,Garfield,65,641
-Bergen,Hackensack,-,879
+Bergen,Hackensack,102,879
 Monmouth,Roosevelt,-,-
 Bergen,Fairview,24,195
 Monmouth,Sea Bright,5,61
@@ -355,7 +355,7 @@ Hunterdon,Lambertville,1,78
 Mercer,Lawrence,37,786
 Mercer,Trenton,1251,2746
 Mercer,Ewing,76,680
-Mercer,Hightstown,-,-
+Mercer,Hightstown,11,107
 Middlesex,Highland Park,7,247
 Middlesex,Middlesex Borough,4,131
 Middlesex,Carteret,49,375
@@ -432,7 +432,7 @@ Somerset,Somerville,18,262
 Somerset,Warren,1,132
 Bergen,Oakland,8,109
 Bergen,Old Tappan,0,25
-Bergen,Palisades Park,-,-
+Bergen,Palisades Park,20,154
 Monmouth,Wall,22,361
 Monmouth,Tinton Falls,13,457
 Monmouth,Spring Lake,0,75
