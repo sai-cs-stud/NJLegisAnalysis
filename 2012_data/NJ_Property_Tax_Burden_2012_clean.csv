@@ -1,0 +1,566 @@
+County  ,Municipality  ,County Government Tax Rate (%),Municipal Tax Rate (%),School  Tax Rate (%),Rebate Tax Rate (%),Net Tax Rate (%),Property Tax as % Income
+Burlington,New Hanover,0.5,-,1.53,-0.06,1.97,4.67
+Hunterdon,Holland,0.38,-,1.77,-0.09,2.06,5.95
+Salem,Lower Alloways Creek,0.99,-,-,-0.02,0.97,2.32
+Burlington,Washington Twp,0.36,-,0.94,-0.06,1.25,2.23
+Sussex,Branchville,0.45,0,1.39,-0.06,1.78,5.44
+Sussex,Walpack,0.56,0,0,-0.02,0.53,-
+Warren,Blairstown,0.71,0.03,1.34,-0.07,2.01,6.39
+Cumberland,Upper Deerfield,0.97,0.03,1.55,-0.11,2.44,5.62
+Burlington,Shamong,0.4,0.04,1.87,-0.05,2.26,5.25
+Burlington,Bass River,0.39,0.06,1.2,-0.06,1.6,6.31
+Cumberland,Deerfield,0.98,0.06,1.63,-0.11,2.57,5.78
+Hunterdon,Lebanon Twp,0.37,0.09,1.69,-0.06,2.09,5.87
+Burlington,Woodland,0.41,0.09,1.47,-0.06,1.91,6
+Cape May,Upper Township,0.24,0.1,1.1,-0.04,1.41,4.18
+Warren,White,0.7,0.12,1.23,-0.09,1.96,6.38
+Mercer,Princeton,0.18,0.13,0.31,-0.01,0.62,-
+Salem,Upper Pittsgrove,1.01,0.13,1.25,-0.1,2.3,6.19
+Bergen,Alpine,0.22,0.14,0.24,0,0.6,1.91
+Salem,Oldmans,0.9,0.14,1.08,-0.07,2.05,5.38
+Cumberland,Stow Creek,0.89,0.15,1.22,-0.12,2.15,5.95
+Ocean,Barnegat Light,0.37,0.17,0.25,-0.02,0.77,6.59
+Warren,Frelinghuysen,0.66,0.17,1.16,-0.05,1.95,6.28
+Cumberland,Hopewell,1,0.17,1.45,-0.13,2.49,5.87
+Monmouth,Spring Lake,0.28,0.17,0.18,-0.01,0.62,4.1
+Ocean,Mantoloking,0.37,0.18,0,0,0.55,6.91
+Gloucester,Logan,0.58,0.18,1.03,-0.02,1.77,4.13
+Salem,Quinton,1.03,0.18,1.28,-0.14,2.35,6.68
+Ocean,Bay Head,0.36,0.19,0.19,-0.01,0.73,7.5
+Atlantic,Estell Manor,0.39,0.19,1.35,-0.07,1.86,5.68
+Hunterdon,Union Twp,0.36,0.19,1.67,-0.04,2.19,5.84
+Monmouth,Colts Neck,0.29,0.2,1.05,-0.02,1.52,3.52
+Salem,Alloway,0.97,0.2,1.3,-0.09,2.38,5.71
+Ocean,Long Beach,0.36,0.2,0.26,-0.01,0.81,6.81
+Hunterdon,East Amwell,0.37,0.2,1.4,-0.05,1.92,6
+Gloucester,South Harrison,0.6,0.2,1.74,-0.05,2.49,5.98
+Monmouth,Millstone Twp,0.32,0.2,1.67,-0.03,2.16,5.75
+Cape May,Dennis,0.24,0.2,1.02,-0.05,1.41,5.27
+Cape May,Avalon,0.21,0.2,0.04,0,0.44,6.11
+Ocean,Plumsted,0.36,0.21,1.27,-0.06,1.78,5.33
+Bergen,Franklin Lakes,0.23,0.21,0.97,-0.01,1.4,3.14
+Monmouth,Deal,0.33,0.22,0.09,0,0.63,7.16
+Warren,Hardwick,0.73,0.22,1.32,-0.08,2.19,5.47
+Ocean,Harvey Cedars,0.36,0.22,0.21,0,0.78,4.5
+Hunterdon,Alexandria,0.36,0.22,1.61,-0.04,2.15,6.14
+Atlantic,Corbin City,0.44,0.22,0.92,-0.07,1.52,4.91
+Ocean,Surf City,0.36,0.22,0.26,-0.01,0.81,6.79
+Hunterdon,Kingwood,0.36,0.22,1.43,-0.05,1.96,6.56
+Cape May,Woodbine,0.24,0.22,0.75,-0.03,1.18,3.96
+Sussex,Sandyston,0.53,0.22,1.55,-0.07,2.23,6.8
+Monmouth,Farmingdale,0.31,0.23,1.39,-0.07,1.86,5.5
+Cumberland,Downe,0.9,0.23,0.76,-0.1,1.79,6.5
+Ocean,Lavallette,0.38,0.23,0.17,-0.02,0.76,6.19
+Warren,Franklin Twp,0.71,0.23,1.97,-0.07,2.84,6.95
+Monmouth,Upper Freehold,0.3,0.23,1.58,-0.04,2.07,6.09
+Cape May,Stone Harbor,0.25,0.23,0.05,0,0.52,7.1
+Sussex,Lafayette,0.52,0.23,1.74,-0.08,2.4,7.79
+Somerset,Bridgewater,0.37,0.23,1.25,-0.04,1.81,4.84
+Bergen,Wyckoff,0.23,0.24,1.21,-0.01,1.67,4.29
+Burlington,Tabernacle,0.4,0.24,1.65,-0.07,2.22,5.8
+Ocean,Lacey,0.37,0.25,1.03,-0.06,1.59,5.93
+Warren,Hope,0.67,0.25,1.49,-0.07,2.35,8.41
+Sussex,Frankford,0.47,0.25,1.41,-0.06,2.07,6.93
+Bergen,Upper Saddle River,0.23,0.25,1.15,-0.03,1.59,4.38
+Somerset,Bedminster,0.31,0.25,0.59,-0.02,1.14,3.51
+Salem,Pittsgrove,0.97,0.26,1.45,-0.1,2.58,5.45
+Warren,Harmony,0.73,0.26,1.05,-0.04,2,5.83
+Morris,Harding,0.26,0.26,0.39,-0.01,0.91,3.32
+Hunterdon,Clinton Twp,0.34,0.26,1.7,-0.04,2.26,5.17
+Monmouth,Sea Girt,0.28,0.26,0.2,-0.01,0.73,4.44
+Cape May,Cape May Point,0.24,0.26,0.01,-0.01,0.5,4.17
+Somerset,Bernards Twp,0.32,0.26,1.2,-0.02,1.76,4.04
+Morris,Chatham Twp,0.24,0.27,1.01,-0.02,1.51,3.42
+Burlington,North Hanover,0.38,0.27,1.11,-0.04,1.72,3.9
+Bergen,Old Tappan,0.22,0.27,1.21,-0.03,1.68,4.66
+Salem,Pilesgrove,0.98,0.27,1.28,-0.08,2.46,5.92
+Burlington,Hainesport,0.4,0.28,1.3,-0.05,1.94,4.86
+Sussex,Wantage,0.48,0.28,1.69,-0.08,2.37,6.69
+Ocean,Beach Haven,0.32,0.28,0.29,-0.01,0.89,6.56
+Gloucester,East Greenwich,0.62,0.28,1.63,-0.06,2.48,5.63
+Hunterdon,Lebanon,0.36,0.28,1.38,-0.04,1.98,5.65
+Somerset,Montgomery,0.36,0.28,1.54,-0.02,2.16,4.84
+Somerset,Warren,0.36,0.28,1.26,-0.02,1.87,3.85
+Cape May,Cape May,0.24,0.29,0.29,-0.01,0.82,8.57
+Monmouth,Manasquan,0.3,0.29,0.68,-0.03,1.24,6.29
+Atlantic,Longport,0.36,0.29,0.05,-0.01,0.7,7.49
+Cumberland,Shiloh,0.76,0.29,1.04,-0.12,1.97,4.24
+Ocean,Ship Bottom,0.36,0.3,0.24,-0.01,0.89,7.16
+Burlington,Chesterfield,0.39,0.3,1.73,-0.04,2.38,7.11
+Hunterdon,Raritan Twp,0.37,0.3,1.6,-0.03,2.23,5.36
+Hunterdon,West Amwell,0.38,0.3,1.51,-0.05,2.14,6.53
+Burlington,Southampton,0.4,0.3,1.56,-0.12,2.14,6.69
+Monmouth,Rumson,0.29,0.3,0.76,-0.01,1.34,3.36
+Salem,Mannington,1.01,0.31,1.17,-0.05,2.44,5.77
+Hunterdon,Lambertville,0.32,0.31,1.07,-0.04,1.66,5.04
+Hunterdon,Franklin Twp,0.37,0.31,1.63,-0.05,2.25,6.39
+Somerset,Hillsborough,0.36,0.31,1.34,-0.04,1.98,5.36
+Salem,Elsinboro,0.91,0.31,1.14,-0.09,2.28,6.55
+Warren,Liberty,0.72,0.32,1.72,-0.08,2.68,7.4
+Burlington,Mansfield,0.4,0.32,1.5,-0.09,2.12,6.79
+Morris,Chatham,0.25,0.32,1.03,-0.02,1.58,4.15
+Monmouth,Monmouth Beach,0.3,0.32,0.63,-0.02,1.23,4.3
+Hunterdon,Tewksbury,0.36,0.32,1.15,-0.02,1.81,4.29
+Hunterdon,Delaware,0.38,0.32,1.44,-0.05,2.08,4.67
+Sussex,Montague,0.5,0.32,1.6,-0.08,2.35,6.63
+Middlesex,Plainsboro,0.36,0.32,1.56,-0.02,2.22,4.8
+Bergen,Mahwah,0.23,0.33,0.9,-0.03,1.43,4.28
+Ocean,Point Pleasant Beach,0.37,0.33,0.53,-0.02,1.2,6.98
+Atlantic,Folsom,0.4,0.33,0.98,-0.06,1.65,4.74
+Burlington,Mount Laurel,0.34,0.33,1.43,-0.05,2.05,4.98
+Cape May,Sea Isle City,0.24,0.33,0.08,0,0.64,5.26
+Monmouth,Manalapan,0.3,0.34,1.28,-0.04,1.89,5.22
+Monmouth,Freehold Twp,0.3,0.34,1.45,-0.05,2.04,5.78
+Monmouth,Holmdel,0.3,0.34,1.24,-0.03,1.86,4.59
+Burlington,Moorestown,0.36,0.34,1.4,-0.03,2.08,3.98
+Mercer,Hopewell Twp,0.63,0.34,1.44,-0.04,2.38,4.98
+Ocean,Eagleswood,0.38,0.34,1.22,-0.06,1.89,6
+Warren,Allamuchy,0.71,0.34,1.31,-0.07,2.28,5.84
+Warren,Oxford,0.72,0.34,1.84,-0.1,2.8,7.43
+Warren,Knowlton,0.74,0.34,1.45,-0.07,2.46,6.82
+Bergen,Englewood Cliffs,0.21,0.34,0.31,-0.01,0.86,3.48
+Monmouth,Marlboro,0.3,0.34,1.32,-0.03,1.93,5.05
+Cape May,West Cape May,0.25,0.34,0.54,-0.02,1.11,7.49
+Sussex,Fredon,0.45,0.34,1.58,-0.06,2.32,6.6
+Monmouth,Avon By The Sea,0.28,0.34,0.36,-0.03,0.96,6.22
+Union,Berkeley Heights,0.47,0.34,1.18,-0.04,1.94,5.36
+Morris,Mendham Twp,0.25,0.35,1.26,-0.02,1.84,3.57
+Union,Westfield,0.46,0.35,1.22,-0.03,1.99,4.71
+Hunterdon,Stockton,0.35,0.35,1.38,-0.06,2.01,8.01
+Hunterdon,Bethlehem,0.37,0.35,1.93,-0.06,2.59,6.37
+Somerset,Branchburg,0.37,0.35,1.33,-0.04,2.02,5.15
+Somerset,Bernardsville,0.32,0.35,0.93,-0.02,1.58,3.37
+Bergen,Saddle River,0.22,0.36,0.3,-0.01,0.88,1.61
+Warren,Independence,0.72,0.36,1.32,-0.06,2.33,6.31
+Essex,Cedar Grove,0.48,0.36,1.09,-0.07,1.87,5.73
+Somerset,Rocky Hill,0.38,0.36,1.18,-0.04,1.88,6.13
+Monmouth,Fair Haven,0.3,0.36,1.21,-0.03,1.84,4.7
+Cumberland,Lawrence,0.97,0.36,0.93,-0.1,2.15,5.97
+Middlesex,South Brunswick,0.38,0.36,1.34,-0.03,2.05,5.44
+Cumberland,Maurice River,1.01,0.36,0.84,-0.12,2.1,6.66
+Morris,Madison,0.24,0.36,1,-0.03,1.57,3.75
+Morris,Washington Twp,0.26,0.37,1.62,-0.04,2.21,5.53
+Bergen,Rockleigh,0.21,0.37,0.27,-0.01,0.84,2.29
+Essex,Livingston,0.46,0.37,1.3,-0.04,2.09,3.28
+Sussex,Hampton Twp,0.5,0.37,1.49,-0.07,2.29,5.65
+Morris,Denville,0.25,0.37,1.36,-0.04,1.94,5.75
+Union,Summit,0.46,0.37,0.93,-0.02,1.75,3.39
+Monmouth,Spring Lake Heights,0.3,0.37,0.69,-0.04,1.32,5.37
+Cape May,Ocean City,0.2,0.37,0.21,-0.01,0.77,6.07
+Essex,North Caldwell,0.47,0.37,1.19,-0.03,2,4.02
+Morris,East Hanover,0.27,0.38,0.82,-0.04,1.43,4.82
+Morris,Florham Park,0.27,0.38,0.77,-0.03,1.38,3.86
+Union,Scotch Plains,0.47,0.38,1.54,-0.06,2.34,5.84
+Cumberland,Greenwich,1.04,0.38,1.46,-0.11,2.78,7.71
+Burlington,Lumberton,0.41,0.38,1.37,-0.03,2.11,5.49
+Morris,Montville,0.26,0.38,1.31,-0.04,1.9,5.05
+Morris,Hanover,0.25,0.39,0.85,-0.03,1.45,4.61
+Atlantic,Weymouth,0.4,0.39,1.26,-0.06,1.99,4.69
+Atlantic,Port Republic,0.39,0.39,1.12,-0.07,1.84,5.96
+Warren,Lopatcong,0.65,0.39,1.4,-0.07,2.37,5.93
+Atlantic,Buena Vista,0.36,0.39,1.33,-0.11,1.97,5.75
+Morris,Boonton Twp,0.25,0.39,1.26,-0.03,1.87,3.73
+Hunterdon,Readington,0.35,0.39,1.49,-0.05,2.19,5.85
+Burlington,Pemberton,0.41,0.39,0.81,-0.08,1.53,3.94
+Somerset,Franklin Twp,0.33,0.39,1.38,-0.05,2.07,5.36
+Cumberland,Fairfield,0.97,0.39,0.86,-0.13,2.1,5.62
+Morris,Kinnelon,0.25,0.39,1.58,-0.03,2.19,5.17
+Gloucester,Harrison Twp,0.61,0.4,1.47,-0.04,2.44,5.11
+Mercer,West Windsor,0.62,0.4,1.41,-0.02,2.4,5.03
+Ocean,Point Pleasant,0.38,0.4,0.94,-0.05,1.67,6.8
+Ocean,Seaside Park,0.37,0.4,0.41,-0.02,1.16,8.51
+Salem,Carneys Point,0.96,0.4,1.18,-0.08,2.45,6.24
+Monmouth,Brielle,0.28,0.41,0.84,-0.03,1.49,5.41
+Sussex,Andover,0.47,0.41,1.39,-0.08,2.19,6.82
+Monmouth,Little Silver,0.3,0.41,1.15,-0.03,1.83,5.33
+Warren,Greenwich,0.7,0.41,1.18,-0.03,2.26,5.61
+Middlesex,Cranbury,0.39,0.41,1.07,-0.01,1.85,3.92
+Morris,Mountain Lakes,0.24,0.41,1.5,-0.02,2.13,3.67
+Essex,Millburn,0.47,0.41,0.89,-0.01,1.76,2.87
+Monmouth,Loch Arbour,0.34,0.41,1.42,-0.07,2.1,17.06
+Morris,Mendham,0.25,0.41,1.16,-0.03,1.79,3.71
+Morris,Morris Twp,0.25,0.41,1.02,-0.03,1.65,3.91
+Monmouth,Belmar,0.29,0.42,0.49,-0.02,1.17,6.09
+Mercer,East Windsor,0.64,0.42,1.88,-0.06,2.88,6.26
+Mercer,Pennington,0.55,0.42,1.4,-0.04,2.33,5.27
+Burlington,Medford,0.38,0.42,1.83,-0.05,2.58,5.4
+Monmouth,Howell,0.31,0.42,1.57,-0.06,2.23,6.25
+Cape May,Middle Township,0.23,0.42,0.86,-0.04,1.46,5.78
+Ocean,Toms River,0.35,0.42,0.79,-0.05,1.52,5.68
+Monmouth,Allenhurst,0.33,0.43,0.01,-0.02,0.75,5.53
+Somerset,Far Hills,0.33,0.43,0.4,-0.01,1.15,0.98
+Somerset,Green Brook,0.37,0.43,1.44,-0.04,2.19,6.25
+Burlington,Evesham,0.39,0.43,1.68,-0.07,2.44,5.51
+Gloucester,Woolwich,0.63,0.43,1.99,-0.04,3.02,6.44
+Monmouth,Ocean Twp,0.3,0.43,1.25,-0.05,1.94,5.79
+Bergen,Demarest,0.22,0.43,1.4,-0.03,2.01,5.46
+Hunterdon,Glen Gardner,0.37,0.43,1.61,-0.06,2.35,5.67
+Morris,Randolph,0.25,0.43,1.61,-0.03,2.26,5
+Bergen,Montvale,0.21,0.44,1.08,-0.03,1.7,5.7
+Bergen,Hillsdale,0.22,0.44,1.6,-0.07,2.19,7.42
+Ocean,Jackson,0.36,0.44,1.17,-0.06,1.91,6.13
+Ocean,Island Heights,0.4,0.44,0.86,-0.05,1.65,7.52
+Essex,Essex Fells,0.47,0.44,0.96,-0.02,1.85,3.83
+Monmouth,Middletown,0.28,0.44,1.24,-0.05,1.92,5.27
+Hunterdon,Hampton Boro,0.36,0.44,2.13,-0.1,2.83,8.44
+Monmouth,Wall,0.31,0.44,1.05,-0.04,1.76,5.73
+Monmouth,Aberdeen,0.28,0.44,1.53,-0.07,2.19,6.45
+Essex,Fairfield,0.47,0.45,0.87,-0.03,1.75,5.49
+Morris,Chester Twp,0.25,0.45,1.37,-0.03,2.05,4.63
+Ocean,Ocean Twp,0.38,0.45,0.75,-0.06,1.52,6.42
+Union,New Providence,0.46,0.45,1.28,-0.05,2.15,5.5
+Union,Mountainside,0.47,0.45,0.83,-0.04,1.71,5.25
+Morris,Pequannock,0.27,0.45,1.29,-0.08,1.94,5.91
+Burlington,Springfield,0.39,0.45,1.6,-0.07,2.37,6.77
+Camden,Haddonfield,0.74,0.45,1.48,-0.05,2.62,5.62
+Middlesex,East Brunswick,0.36,0.45,1.61,-0.06,2.36,6.36
+Bergen,Woodcliff Lake,0.21,0.45,1.24,-0.05,1.85,4.03
+Bergen,Ramsey,0.23,0.45,1.47,-0.04,2.11,6.01
+Monmouth,Tinton Falls,0.29,0.45,1.11,-0.04,1.81,5.02
+Burlington,Burlington Twp,0.39,0.45,1.76,-0.06,2.54,6.08
+Middlesex,Old Bridge,0.38,0.46,1.28,-0.06,2.06,5.58
+Middlesex,South Plainfield,0.38,0.46,1.14,-0.05,1.94,6.09
+Bergen,Park Ridge,0.23,0.46,1.37,-0.06,2,5.58
+Middlesex,Metuchen,0.37,0.46,1.51,-0.06,2.28,6.17
+Atlantic,Egg Harbor Twp,0.39,0.46,1.72,-0.06,2.5,6.51
+Bergen,River Vale,0.23,0.46,1.55,-0.05,2.18,6.27
+Burlington,Florence,0.41,0.46,1.44,-0.08,2.24,5.87
+Sussex,Stillwater,0.52,0.46,1.55,-0.08,2.45,6.77
+Middlesex,Monroe,0.36,0.47,1.35,-0.07,2.12,6.28
+Bergen,Harrington Park,0.22,0.47,1.6,-0.06,2.24,6.89
+Mercer,Lawrence,0.62,0.47,1.2,-0.04,2.25,5.08
+Bergen,Paramus,0.21,0.47,0.83,-0.03,1.48,5.57
+Monmouth,Oceanport,0.3,0.47,1.06,-0.05,1.79,5.56
+Bergen,Glen Rock,0.22,0.48,1.73,-0.05,2.39,6.4
+Morris,Wharton,0.25,0.48,1.74,-0.07,2.41,6.6
+Sussex,Sparta,0.44,0.48,1.64,-0.04,2.52,6.72
+Cape May,Lower Township,0.25,0.48,0.69,-0.04,1.37,6.6
+Mercer,Hopewell,0.57,0.49,1.42,-0.06,2.41,6.76
+Essex,West Caldwell,0.46,0.49,1.11,-0.05,2.01,5.82
+Hunterdon,Bloomsbury,0.39,0.49,1.51,-0.07,2.32,6.25
+Bergen,Closter,0.23,0.49,1.36,-0.05,2.03,6.52
+Burlington,Bordentown Twp,0.39,0.49,1.58,-0.07,2.4,6.02
+Morris,Parsippany-Troy Hills,0.26,0.49,1.4,-0.04,2.11,5.51
+Camden,Voorhees,0.75,0.49,1.63,-0.06,2.81,5.44
+Passaic,Totowa,0.69,0.49,1.07,-0.08,2.17,7.02
+Monmouth,Englishtown,0.3,0.5,1.27,-0.06,2.01,6.1
+Middlesex,Milltown,0.36,0.5,1.44,-0.09,2.22,6.9
+Atlantic,Galloway,0.39,0.5,1.4,-0.08,2.21,6.16
+Hunterdon,Califon,0.37,0.5,2.14,-0.08,2.93,6.07
+Bergen,Ho-Ho-Kus,0.22,0.5,0.98,-0.02,1.68,4.26
+Bergen,Washington Twp,0.23,0.5,1.25,-0.07,1.91,6.77
+Bergen,Tenafly,0.22,0.5,1.4,-0.02,2.1,4.74
+Bergen,Ridgewood,0.22,0.5,1.39,-0.03,2.09,4.98
+Bergen,Ridgefield,0.21,0.5,0.99,-0.06,1.64,6.48
+Burlington,Cinnaminson,0.41,0.5,1.72,-0.11,2.52,5.99
+Warren,Washington Twp,0.72,0.5,1.63,-0.07,2.77,6.84
+Union,Fanwood,0.48,0.51,1.54,-0.08,2.45,7.2
+Warren,Mansfield,0.71,0.51,1.51,-0.07,2.66,6.49
+Bergen,East Rutherford,0.24,0.51,0.98,-0.02,1.7,4.52
+Bergen,Allendale,0.21,0.51,1.37,-0.03,2.07,5.01
+Camden,Winslow,0.82,0.51,1.67,-0.09,2.91,6.97
+Hunterdon,Clinton,0.36,0.51,1.87,-0.05,2.69,6.67
+Somerset,Watchung,0.38,0.51,1.09,-0.03,1.95,4.01
+Bergen,Palisades Park,0.2,0.51,0.75,-0.03,1.43,7.59
+Ocean,Berkeley Twp,0.38,0.52,0.91,-0.1,1.7,7.87
+Gloucester,Franklin Twp,0.58,0.52,1.47,-0.1,2.47,6.21
+Atlantic,Hammonton,0.4,0.52,1.29,-0.07,2.14,5.15
+Burlington,Westampton,0.37,0.52,1.17,-0.04,2.02,5.12
+Essex,Roseland,0.48,0.52,0.89,-0.03,1.86,5.27
+Somerset,Peapack Gladstone,0.36,0.52,0.86,-0.02,1.71,2.92
+Morris,Riverdale,0.24,0.53,0.78,-0.04,1.52,4.75
+Middlesex,Edison,0.37,0.53,1.34,-0.05,2.18,5.32
+Ocean,Pine Beach,0.39,0.53,0.84,-0.07,1.7,5.89
+Bergen,Haworth,0.23,0.53,1.33,-0.03,2.06,6.72
+Union,Cranford,0.47,0.53,1.22,-0.07,2.15,6.56
+Salem,Pennsville,1,0.53,1.54,-0.1,2.98,6.95
+Camden,Cherry Hill,0.78,0.53,1.83,-0.09,3.04,5.76
+Camden,Haddon Twp,0.77,0.53,1.57,-0.12,2.76,6.89
+Hudson,Hoboken,0.52,0.54,0.38,0,1.43,3.01
+Monmouth,Sea Bright,0.3,0.54,0.42,-0.01,1.26,6.39
+Bergen,Midland Park,0.22,0.54,1.51,-0.07,2.2,6.82
+Salem,Elmer,1.04,0.54,1.26,-0.12,2.73,6.33
+Monmouth,Bradley Beach,0.28,0.54,0.47,-0.03,1.26,6.88
+Middlesex,Helmetta,0.35,0.55,1.46,-0.09,2.27,6.72
+Middlesex,Sayreville,0.38,0.55,1.21,-0.08,2.07,5.99
+Atlantic,Margate,0.35,0.55,0.31,-0.02,1.19,7.05
+Monmouth,Red Bank,0.29,0.55,1.09,-0.03,1.89,6.35
+Monmouth,West Long Branch,0.28,0.55,1.15,-0.06,1.93,6.49
+Bergen,Waldwick,0.23,0.55,1.7,-0.07,2.41,8.19
+Sussex,Green,0.5,0.55,1.73,-0.06,2.72,6.73
+Sussex,Hardyston,0.48,0.55,1.2,-0.05,2.17,6.55
+Bergen,Oakland,0.23,0.55,1.48,-0.06,2.2,6.52
+Passaic,Hawthorne,0.67,0.55,1.45,-0.09,2.57,7.94
+Somerset,Millstone,0.36,0.56,1.44,-0.11,2.25,7.15
+Gloucester,Mantua,0.62,0.57,1.61,-0.09,2.71,5.82
+Ocean,Manchester,0.38,0.57,1.1,-0.13,1.92,6.52
+Morris,Long Hill,0.25,0.57,1.38,-0.06,2.14,5.76
+Burlington,Medford Lakes,0.39,0.57,1.78,-0.08,2.66,6.72
+Gloucester,Washington Twp,0.59,0.57,1.68,-0.09,2.75,6.08
+Morris,Mount Olive,0.25,0.57,1.96,-0.04,2.74,6.23
+Somerset,Raritan,0.34,0.58,1.25,-0.05,2.12,5.81
+Bergen,Westwood,0.23,0.58,1.27,-0.05,2.03,7.17
+Monmouth,Lake Como,0.3,0.58,0.78,-0.04,1.61,8.41
+Union,Clark,0.49,0.58,1.2,-0.08,2.18,6.83
+Middlesex,Piscataway,0.35,0.58,1.34,-0.06,2.21,5.64
+Middlesex,South River,0.38,0.58,1.1,-0.09,1.97,6.09
+Cape May,West Wildwood,0.24,0.58,0.58,-0.03,1.38,7.95
+Morris,Rockaway,0.26,0.58,1.44,-0.06,2.21,6.62
+Salem,Woodstown,0.97,0.58,1.27,-0.09,2.73,6.45
+Atlantic,Brigantine,0.38,0.59,0.49,-0.03,1.43,9
+Bergen,Norwood,0.23,0.59,1.24,-0.04,2.02,5.96
+Monmouth,Atlantic Highlands,0.31,0.59,1.11,-0.05,1.96,6.52
+Bergen,Oradell,0.23,0.59,1.4,-0.05,2.17,5.92
+Warren,Hackettstown,0.64,0.59,1.46,-0.07,2.62,6.98
+Passaic,Wayne,0.68,0.59,1.36,-0.06,2.57,6.93
+Sussex,Vernon,0.49,0.59,1.59,-0.07,2.6,7.01
+Ocean,Tuckerton,0.39,0.59,1.08,-0.07,1.98,7.84
+Camden,Haddon Heights,0.73,0.59,1.43,-0.09,2.66,6.39
+Bergen,Edgewater,0.22,0.6,0.5,-0.01,1.32,4.33
+Ocean,Lakewood,0.36,0.6,0.99,-0.05,1.9,6.55
+Camden,Berlin,0.79,0.6,1.39,-0.09,2.69,6.68
+Monmouth,Hazlet,0.31,0.6,1.46,-0.08,2.28,6.12
+Sussex,Sussex,0.5,0.6,1.62,-0.11,2.61,7
+Ocean,Brick,0.38,0.61,0.86,-0.07,1.78,7.22
+Ocean,Little Egg Harbor,0.37,0.61,1.01,-0.08,1.91,7.29
+Atlantic,Mullica,0.41,0.61,1.15,-0.08,2.09,5.86
+Bergen,Cresskill,0.21,0.61,1.17,-0.05,1.94,5.42
+Bergen,Northvale,0.23,0.61,1.46,-0.07,2.24,8.3
+Hunterdon,Frenchtown,0.37,0.61,1.58,-0.07,2.5,7.19
+Cape May,North Wildwood,0.24,0.61,0.22,-0.01,1.06,6.79
+Passaic,Little Falls,0.68,0.61,1.12,-0.09,2.32,7.64
+Morris,Jefferson,0.25,0.62,1.39,-0.07,2.2,6.46
+Mercer,Robbinsville,0.62,0.62,1.55,-0.05,2.75,6.51
+Cape May,Wildwood Crest,0.24,0.62,0.29,-0.01,1.13,6.22
+Middlesex,North Brunswick,0.39,0.63,1.73,-0.06,2.69,6.04
+Hunterdon,Flemington,0.33,0.63,1.64,-0.05,2.56,6.05
+Morris,Butler,0.24,0.64,1.45,-0.07,2.26,7.05
+Morris,Roxbury,0.26,0.64,1.54,-0.06,2.38,6.62
+Essex,Verona,0.47,0.64,1.36,-0.06,2.41,6.21
+Monmouth,Shrewsbury,0.31,0.65,1.18,-0.03,2.1,5.71
+Essex,Glen Ridge,0.46,0.65,1.8,-0.03,2.87,6.45
+Hunterdon,Milford,0.37,0.65,2.01,-0.17,2.85,7.82
+Morris,Morris Plains,0.25,0.65,0.96,-0.04,1.81,5.17
+Passaic,Ringwood,0.66,0.65,1.54,-0.07,2.78,7.76
+Camden,Tavistock,0.78,0.65,0.12,-0.01,1.55,-
+Monmouth,Neptune Twp,0.29,0.65,0.96,-0.06,1.84,6.57
+Passaic,Woodland Park,0.66,0.65,1.21,-0.09,2.43,7.74
+Bergen,Emerson,0.23,0.66,1.34,-0.07,2.16,7.46
+Gloucester,Deptford,0.54,0.66,1.19,-0.08,2.31,5.56
+Bergen,Saddle Brook,0.23,0.66,1.23,-0.09,2.04,6.96
+Cumberland,Vineland,0.91,0.66,0.53,-0.07,2.02,4.63
+Morris,Rockaway Twp,0.26,0.66,1.68,-0.06,2.55,7.16
+Ocean,Ocean Gate,0.38,0.67,1.02,-0.07,2,10.24
+Essex,Caldwell,0.48,0.67,1.15,-0.05,2.24,6.04
+Union,Kenilworth,0.47,0.67,1.09,-0.07,2.16,7.27
+Passaic,North Haledon,0.61,0.67,0.96,-0.09,2.16,6.87
+Ocean,Seaside Heights,0.38,0.67,0.71,-0.02,1.74,11.89
+Burlington,Riverton,0.41,0.67,1.8,-0.09,2.79,6.03
+Middlesex,Highland Park,0.36,0.67,1.7,-0.05,2.67,6.53
+Bergen,River Edge,0.21,0.68,1.74,-0.09,2.54,7.82
+Burlington,Delran,0.4,0.68,1.73,-0.1,2.71,6.39
+Morris,Mount Arlington,0.26,0.68,1.22,-0.06,2.09,6.63
+Cumberland,Commercial,0.98,0.68,0.73,-0.14,2.25,6.18
+Gloucester,Newfield,0.62,0.68,1.54,-0.16,2.68,7.36
+Sussex,Hamburg,0.5,0.68,1.84,-0.12,2.9,7.59
+Burlington,Maple Shade,0.4,0.68,1.56,-0.11,2.52,6.13
+Passaic,Wanaque,0.66,0.68,1.56,-0.1,2.8,8.32
+Ocean,Barnegat Twp,0.37,0.69,1.19,-0.11,2.14,8.03
+Gloucester,Elk,0.61,0.69,1.38,-0.09,2.6,7.08
+Atlantic,Somers Point,0.38,0.69,1.22,-0.06,2.22,7.19
+Burlington,Mount Holly,0.39,0.69,1.58,-0.1,2.56,6.09
+Hudson,Secaucus,0.52,0.69,0.67,-0.02,1.86,4.31
+Gloucester,Wenonah,0.5,0.69,1.88,-0.11,2.96,5.64
+Burlington,Edgewater Park,0.39,0.69,1.37,-0.1,2.34,6.15
+Middlesex,Woodbridge,0.38,0.7,1.46,-0.09,2.44,6.34
+Monmouth,Eatontown,0.3,0.7,1.07,-0.03,2.03,5.65
+Morris,Boonton,0.26,0.7,1.54,-0.06,2.43,7
+Atlantic,Linwood,0.36,0.7,1.71,-0.08,2.7,5.7
+Sussex,Hopatcong,0.48,0.71,1.35,-0.08,2.46,7.47
+Mercer,Hamilton,0.61,0.71,1.19,-0.09,2.41,5.48
+Burlington,Fieldsboro,0.43,0.71,1.52,-0.09,2.56,6.83
+Passaic,West Milford,0.62,0.71,1.67,-0.09,2.92,8.31
+Ocean,Beachwood,0.38,0.72,0.81,-0.08,1.82,5.6
+Atlantic,Hamilton,0.37,0.72,1.21,-0.06,2.24,5.93
+Monmouth,Allentown,0.3,0.72,1.61,-0.09,2.54,6.62
+Morris,Mine Hill,0.26,0.72,1.4,-0.09,2.28,7.21
+Monmouth,Interlaken,0.32,0.73,0.17,-0.05,1.17,4.57
+Monmouth,Roosevelt,0.31,0.74,1.77,-0.08,2.75,7.76
+Gloucester,Monroe,0.57,0.74,1.75,-0.11,2.94,7.26
+Sussex,Andover Twp,0.5,0.74,1.56,-0.06,2.75,6.25
+Ocean,Stafford,0.39,0.74,0.84,-0.07,1.91,6.96
+Bergen,Little Ferry,0.2,0.75,1.27,-0.08,2.14,7.65
+Morris,Victory Gardens,0.24,0.75,1.07,-0.07,1.99,5.14
+Gloucester,Pitman,0.59,0.75,1.85,-0.12,3.07,6.81
+Middlesex,Jamesburg,0.39,0.75,1.63,-0.08,2.69,7.09
+Monmouth,Long Branch,0.28,0.75,0.7,-0.03,1.71,8.04
+Middlesex,Middlesex Borough,0.39,0.75,1.47,-0.11,2.5,7.23
+Burlington,Wrightstown,0.42,0.75,1.25,-0.06,2.37,3.19
+Bergen,Fair Lawn,0.22,0.76,1.68,-0.09,2.57,7.09
+Bergen,Wallington,0.23,0.76,1.32,-0.13,2.18,6.17
+Gloucester,Greenwich,0.65,0.76,0.97,-0.04,2.33,5.78
+Bergen,Cliffside Park,0.22,0.76,0.96,-0.06,1.88,6.66
+Monmouth,Matawan,0.28,0.76,1.57,-0.07,2.54,6.42
+Camden,Audubon,0.73,0.76,1.44,-0.12,2.81,6.99
+Essex,Montclair,0.47,0.77,1.57,-0.03,2.78,5.72
+Essex,Maplewood,0.49,0.77,1.77,-0.05,2.99,6.67
+Morris,Chester,0.25,0.77,1.24,-0.03,2.23,5.01
+Bergen,Elmwood Park,0.23,0.77,1.43,-0.1,2.34,7.64
+Passaic,Pompton Lakes,0.68,0.77,1.94,-0.11,3.27,8.6
+Camden,Gibbsboro,0.82,0.77,1.75,-0.12,3.24,7.22
+Camden,Waterford,0.78,0.77,1.55,-0.12,2.98,7.53
+Sussex,Byram,0.47,0.78,1.67,-0.07,2.85,6.9
+Bergen,Leonia,0.23,0.78,1.52,-0.06,2.48,7.48
+Gloucester,Swedesboro,0.61,0.78,2,-0.09,3.31,7.84
+Burlington,Delanco,0.41,0.78,1.37,-0.09,2.47,6.74
+Passaic,Clifton,0.67,0.78,1.31,-0.09,2.67,7.36
+Camden,Stratford,0.78,0.78,1.99,-0.17,3.38,7.22
+Middlesex,Spotswood,0.39,0.79,1.5,-0.11,2.57,7.18
+Atlantic,Ventnor,0.39,0.79,0.76,-0.04,1.89,9.84
+Burlington,Eastampton,0.39,0.79,1.4,-0.07,2.52,6.47
+Camden,Pine Valley,0.78,0.79,-,-0.01,1.55,-
+Union,Springfield,0.48,0.8,1.27,-0.06,2.48,6.29
+Bergen,New Milford,0.23,0.8,1.56,-0.1,2.49,7.6
+Mercer,Ewing,0.69,0.8,1.82,-0.11,3.2,6.94
+Gloucester,West Deptford,0.56,0.8,1.16,-0.06,2.46,5.34
+Bergen,Hasbrouck Heights,0.21,0.81,1.43,-0.08,2.36,6.99
+Bergen,Lodi,0.22,0.81,1.83,-0.11,2.75,8.26
+Atlantic,Northfield,0.36,0.82,1.56,-0.1,2.64,7.08
+Essex,West Orange,0.48,0.82,2.04,-0.06,3.29,7.49
+Essex,South Orange,0.48,0.82,1.74,-0.04,3.01,6.46
+Bergen,Carlstadt,0.23,0.82,0.84,-0.02,1.86,4.77
+Bergen,Dumont,0.21,0.82,1.74,-0.12,2.65,8.29
+Gloucester,Clayton,0.62,0.82,1.71,-0.12,3.03,6.99
+Hudson,Weehawken,0.46,0.83,0.71,-0.01,1.99,5.14
+Hunterdon,High Bridge,0.37,0.83,2.03,-0.09,3.14,7.92
+Monmouth,Keyport,0.29,0.83,1.26,-0.07,2.31,6.6
+Union,Garwood,0.48,0.83,1.12,-0.08,2.35,7.27
+Atlantic,Absecon,0.37,0.84,1.23,-0.1,2.35,6.76
+Bergen,Bogota,0.23,0.84,1.8,-0.08,2.78,8.34
+Bergen,South Hackensack,0.21,0.84,1.03,-0.04,2.04,7.3
+Middlesex,Dunellen,0.38,0.85,1.76,-0.1,2.89,7.66
+Bergen,Rutherford,0.23,0.85,1.41,-0.07,2.41,7.15
+Monmouth,Freehold,0.3,0.85,1.23,-0.07,2.31,7.57
+Camden,Collingswood,0.75,0.85,1.38,-0.12,2.87,6.6
+Gloucester,National Park,0.62,0.86,2.25,-0.23,3.49,8.47
+Camden,Pennsauken,0.77,0.86,1.52,-0.12,3.03,6.44
+Morris,Lincoln Park,0.26,0.86,1.26,-0.08,2.3,6.96
+Somerset,Manville,0.39,0.87,1.38,-0.15,2.48,8.4
+Burlington,Pemberton Twp,0.38,0.87,0.71,-0.07,1.89,5.4
+Bergen,Wood-Ridge,0.23,0.87,1.22,-0.07,2.26,6.65
+Morris,Netcong,0.27,0.87,1.6,-0.1,2.64,7.49
+Morris,Morristown,0.26,0.87,1.06,-0.03,2.16,4.71
+Bergen,Fort Lee,0.21,0.88,0.82,-0.04,1.87,4.13
+Somerset,Bound Brook,0.37,0.88,1.58,-0.1,2.73,7.88
+Warren,Alpha,0.65,0.88,1.4,-0.13,2.8,6.93
+Camden,Lawnside,0.83,0.88,1.77,-0.1,3.39,8.94
+Atlantic,Buena,0.38,0.88,1.36,-0.12,2.5,6.8
+Bergen,Moonachie,0.27,0.88,1.03,-0.04,2.14,5.6
+Bergen,Maywood,0.21,0.89,1.26,-0.09,2.27,6.95
+Burlington,Riverside,0.41,0.89,1.63,-0.14,2.79,7.29
+Burlington,Bordentown,0.39,0.89,1.54,-0.09,2.74,6.49
+Camden,Gloucester Twp,0.82,0.9,1.55,-0.13,3.14,6.6
+Middlesex,New Brunswick,0.37,0.9,0.91,-0.02,2.15,6.53
+Bergen,Teaneck,0.23,0.91,1.44,-0.06,2.52,6.34
+Morris,Dover,0.27,0.91,0.97,-0.06,2.09,6.42
+Sussex,Stanhope,0.49,0.91,1.65,-0.11,2.94,7.66
+Camden,Runnemede,0.76,0.91,1.79,-0.18,3.28,7.28
+Monmouth,Neptune City,0.32,0.92,1.15,-0.09,2.3,6.51
+Passaic,Bloomingdale,0.63,0.92,1.77,-0.14,3.18,8.7
+Camden,Pine Hill,0.82,0.92,2.19,-0.18,3.75,8.11
+Camden,Magnolia,0.85,0.92,1.82,-0.19,3.41,7.28
+Camden,Barrington,0.79,0.92,1.77,-0.15,3.34,7.68
+Middlesex,South Amboy,0.36,0.93,0.98,-0.08,2.2,6.55
+Bergen,Englewood,0.14,0.93,1.01,-0.03,2.05,4.31
+Somerset,Somerville,0.37,0.93,1.74,-0.07,2.97,6.85
+Somerset,South Bound Brook,0.4,0.93,1.85,-0.12,3.06,6.79
+Union,Linden,0.48,0.94,1.47,-0.08,2.8,8.22
+Bergen,Rochelle Park,0.23,0.94,1.07,-0.07,2.16,6.7
+Essex,Nutley,0.47,0.96,1.35,-0.09,2.69,7.12
+Gloucester,Woodbury Heights,0.6,0.96,1.98,-0.17,3.37,6.79
+Monmouth,Highlands,0.31,0.97,1.12,-0.05,2.35,7.37
+Sussex,Franklin,0.51,0.97,1.47,-0.08,2.86,7.05
+Warren,Belvidere,0.72,0.97,1.74,-0.1,3.34,7.09
+Mercer,Hightstown,0.62,0.97,1.82,-0.09,3.32,7.09
+Union,Union Twp,0.49,0.98,1.27,-0.09,2.65,7.16
+Bergen,Lyndhurst,0.23,0.98,1.17,-0.08,2.3,6.25
+Camden,Somerdale,0.88,0.98,1.74,-0.18,3.42,7.45
+Camden,Merchantville,0.82,0.98,1.68,-0.1,3.38,6.12
+Bergen,North Arlington,0.23,0.99,1.46,-0.11,2.58,6.84
+Bergen,Bergenfield,0.23,1,1.69,-0.09,2.84,7.55
+Ocean,Lakehurst,0.32,1.01,0.56,-0.08,1.81,6.12
+Warren,Pohatcong,0.71,1.01,1.56,-0.12,3.17,8.14
+Gloucester,Glassboro,0.62,1.01,1.57,-0.1,3.1,7.21
+Sussex,Ogdensburg,0.5,1.01,1.47,-0.11,2.87,7.65
+Somerset,North Plainfield,0.38,1.02,1.81,-0.09,3.11,8.13
+Bergen,Teterboro,0.24,1.02,0.03,-0.11,1.18,-25.52
+Burlington,Palmyra,0.4,1.02,1.53,-0.12,2.83,6.7
+Camden,Bellmawr,0.82,1.02,1.5,-0.19,3.16,7.91
+Gloucester,Westville,0.58,1.03,1.97,-0.18,3.39,7.15
+Union,Roselle Park,0.5,1.04,1.71,-0.13,3.12,7.88
+Bergen,Garfield,0.23,1.04,1.13,-0.07,2.33,6.63
+Cumberland,Millville,0.95,1.05,0.6,-0.1,2.5,5.59
+Passaic,Haledon,0.67,1.07,1.71,-0.11,3.34,9.54
+Middlesex,Carteret,0.36,1.07,1.19,-0.09,2.53,6
+Burlington,Burlington,0.39,1.08,1.54,-0.12,2.88,7.05
+Camden,Mount Ephraim,0.82,1.09,1.84,-0.2,3.56,7.02
+Bergen,Fairview,0.22,1.1,1.12,-0.05,2.39,8.71
+Monmouth,Asbury Park,0.31,1.11,0.55,-0.02,1.95,6.79
+Bergen,Ridgefield Park,0.22,1.11,1.63,-0.07,2.89,7.95
+Monmouth,Union Beach,0.31,1.11,1.12,-0.09,2.47,7.73
+Gloucester,Paulsboro,0.56,1.11,1.2,-0.1,2.77,7.36
+Hudson,East Newark,0.5,1.12,0.93,-0.05,2.5,5.96
+Camden,Berlin Twp,0.79,1.13,1.45,-0.13,3.25,7.4
+Warren,Phillipsburg,0.66,1.14,0.96,-0.1,2.67,6.66
+Warren,Washington,0.67,1.14,1.76,-0.1,3.48,7.81
+Union,Rahway,0.5,1.14,1.33,-0.11,2.87,7.76
+Hudson,Jersey City,0.55,1.14,0.63,-0.03,2.3,3.27
+Cape May,Wildwood,0.25,1.14,0.64,-0.01,2.01,11.02
+Ocean,South Toms River,0.4,1.15,0.88,-0.12,2.31,7.08
+Sussex,Newton,0.5,1.16,1.73,-0.09,3.3,8.29
+Hudson,Kearny,0.56,1.16,1.43,-0.07,3.08,7.62
+Camden,Oaklyn,0.8,1.16,1.54,-0.16,3.35,7.44
+Hudson,North Bergen,0.54,1.17,0.89,-0.04,2.57,6.23
+Camden,Hi-Nella,0.86,1.17,1.37,-0.14,3.26,6.24
+Burlington,Beverly,0.39,1.18,2.15,-0.19,3.53,7.76
+Camden,Clementon,0.76,1.19,1.49,-0.15,3.29,7.81
+Essex,Newark,0.53,1.22,0.77,-0.03,2.49,5.85
+Hudson,Bayonne,0.55,1.22,1.32,-0.06,3.03,6.63
+Monmouth,Shrewsbury Twp,0.26,1.24,1.17,-0.1,2.56,6.05
+Essex,Bloomfield,0.48,1.27,1.45,-0.1,3.11,7.94
+Bergen,Hackensack,0.22,1.29,1.22,-0.03,2.69,7.35
+Camden,Brooklawn,0.85,1.29,0.86,-0.12,2.88,5.45
+Camden,Chesilhurst,0.77,1.3,0.88,-0.16,2.8,7.92
+Atlantic,Atlantic City,0.35,1.32,0.89,-0.01,2.56,9.96
+Gloucester,Woodbury,0.52,1.35,1.9,-0.12,3.64,7.41
+Camden,Laurel Springs,0.85,1.36,2.03,-0.23,4,8.27
+Camden,Lindenwold,0.82,1.36,1.77,-0.18,3.77,6.71
+Hudson,Guttenberg,0.54,1.38,1.15,-0.04,3.02,7.82
+Hudson,West New York,0.55,1.39,0.64,-0.03,2.54,4.1
+Essex,Belleville,0.46,1.45,1.12,-0.09,2.93,7.62
+Camden,Camden,0.73,1.45,0.43,-0.05,2.56,4.09
+Burlington,Willingboro,0.36,1.49,1.43,-0.16,3.12,8.13
+Salem,Penns Grove,0.97,1.5,1.23,-0.13,3.58,7.87
+Hudson,Harrison,0.56,1.5,0.96,-0.05,2.97,5.78
+Atlantic,Egg Harbor,0.38,1.52,1.62,-0.17,3.36,8.41
+Passaic,Prospect Park,0.77,1.52,2.16,-0.14,4.31,8.93
+Union,Hillside,0.5,1.67,1.5,-0.11,3.56,8.32
+Middlesex,Perth Amboy,0.37,1.68,0.74,-0.07,2.71,7.36
+Passaic,Passaic,0.65,1.76,0.53,-0.05,2.89,6.84
+Monmouth,Keansburg,0.32,1.78,0.83,-0.09,2.84,8.24
+Camden,Gloucester City,0.83,1.79,0.72,-0.15,3.19,6.21
+Union,Elizabeth,0.48,1.8,0.72,-0.06,2.94,6.91
+Atlantic,Pleasantville,0.41,1.83,0.79,-0.07,2.96,7.99
+Salem,Salem,0.96,1.83,1.14,-0.13,3.8,7.94
+Union,Plainfield,0.49,1.92,0.9,-0.09,3.22,7.99
+Passaic,Paterson,0.59,1.95,0.55,-0.07,3.03,8.12
+Hudson,Union City,0.57,1.97,0.53,-0.03,3.04,6.29
+Union,Roselle,0.51,2.11,1.75,-0.15,4.21,10.07
+Cumberland,Bridgeton,1.01,2.17,0.75,-0.15,3.78,5.56
+Camden,Woodlynne,0.89,2.3,2.51,-0.26,5.43,9.71
+Essex,East Orange,0.48,2.32,0.59,-0.06,3.33,9.36
+Camden,Audubon Park,0.81,2.38,1.32,-0.56,3.94,4.65
+Essex,Irvington,0.46,2.46,0.7,-0.06,3.56,8.52
+Essex,Orange,0.47,2.48,0.76,-0.07,3.65,9.3
+Mercer,Trenton,0.62,2.8,0.92,-0.09,4.25,7.19
+Union,Winfield,0.46,7.99,8.85,-1.47,15.83,5.89

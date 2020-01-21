@@ -1,0 +1,567 @@
+County  ,Municipality  ,Area,Density
+Warren,Liberty,12,250
+Atlantic,Brigantine,6,1474
+Monmouth,Deal,1,602
+Monmouth,Manalapan,31,1282
+Mercer,Princeton,2,6706
+Bergen,Norwood,3,2130
+Bergen,North Arlington,3,6068
+Middlesex,Old Bridge,38,1739
+Morris,Riverdale,2,1958
+Bergen,Montvale,4,1990
+Union,Winfield,0,8244
+Bergen,Mahwah,26,1019
+Monmouth,Shrewsbury,2,1801
+Bergen,Hillsdale,3,3507
+Bergen,Hasbrouck Heights,2,7905
+Morris,Jefferson,39,549
+Middlesex,South Plainfield,8,2841
+Bergen,Fort Lee,3,14068
+Middlesex,South Amboy,2,5626
+Bergen,Glen Rock,3,4354
+Bergen,Edgewater,1,12736
+Bergen,Fair Lawn,5,6390
+Monmouth,Asbury Park,1,11173
+Monmouth,Allenhurst,0,1900
+Middlesex,Woodbridge,23,4318
+Middlesex,Spotswood,2,3702
+Monmouth,Colts Neck,31,328
+Monmouth,Brielle,2,2718
+Monmouth,Belmar,1,5477
+Monmouth,Atlantic Highlands,1,3381
+Salem,Upper Pittsgrove,40,87
+Salem,Alloway,33,104
+Somerset,Bound Brook,2,6447
+Somerset,Far Hills,5,192
+Somerset,Green Brook,4,1618
+Salem,Penns Grove,1,5593
+Salem,Pittsgrove,45,206
+Bergen,Emerson,2,3503
+Ocean,Barnegat Twp,34,623
+Bergen,Little Ferry,1,7250
+Bergen,River Edge,2,6197
+Morris,Wharton,2,3059
+Morris,Victory Gardens,0,10207
+Ocean,Berkeley Twp,43,968
+Somerset,Manville,2,4406
+Bergen,Teaneck,6,6671
+Ocean,Lakewood,25,3773
+Somerset,North Plainfield,3,7890
+Somerset,Raritan,2,3639
+Ocean,Barnegat Light,1,790
+Ocean,Ocean Gate,0,4496
+Morris,Washington Twp,44,422
+Ocean,Ship Bottom,1,1631
+Sussex,Andover,1,410
+Bergen,Wyckoff,7,2575
+Monmouth,Eatontown,6,2132
+Essex,Nutley,3,8450
+Bergen,Park Ridge,3,3435
+Bergen,Westwood,2,4851
+Bergen,Ridgefield Park,2,7479
+Essex,Newark,24,11481
+Bergen,Wallington,1,11829
+Bergen,Rockleigh,1,546
+Monmouth,Farmingdale,1,2527
+Bergen,Saddle River,5,646
+Monmouth,Englishtown,1,3349
+Burlington,Evesham,29,1563
+Monmouth,Highlands,1,6465
+Essex,Livingston,14,2144
+Essex,Glen Ridge,1,5933
+Monmouth,Freehold Twp,39,937
+Burlington,Delran,7,2561
+Burlington,Burlington,3,3228
+Monmouth,Interlaken,0,2488
+Essex,Montclair,6,5999
+Atlantic,Northfield,3,2541
+Burlington,Beverly,1,4678
+Monmouth,Holmdel,18,932
+Essex,Maplewood,4,6215
+Bergen,Oradell,2,3340
+Essex,Caldwell,1,6713
+Monmouth,Lake Como,0,6952
+Essex,Bloomfield,5,8976
+Monmouth,Keansburg,1,9358
+Essex,Fairfield,10,728
+Burlington,Mansfield,22,397
+Burlington,Hainesport,6,950
+Essex,East Orange,4,16395
+Monmouth,Little Silver,3,2207
+Sussex,Franklin,5,1099
+Sussex,Hampton Twp,24,209
+Sussex,Byram,21,389
+Sussex,Sparta,37,529
+Burlington,Moorestown,15,1410
+Sussex,Wantage,67,169
+Burlington,Pemberton Twp,61,456
+Bergen,Teterboro,1,60
+Sussex,Hopatcong,11,1376
+Burlington,Chesterfield,21,355
+Sussex,Newton,3,2494
+Warren,Phillipsburg,3,4608
+Warren,Hardwick,37,46
+Ocean,Lakehurst,1,2927
+Warren,Harmony,24,111
+Ocean,Lacey,83,334
+Warren,Frelinghuysen,23,94
+Union,Clark,4,3476
+Ocean,Jackson,99,560
+Warren,Greenwich,11,533
+Union,Fanwood,1,5530
+Ocean,Island Heights,1,2743
+Warren,Alpha,2,1393
+Warren,Blairstown,31,190
+Ocean,Bay Head,1,1695
+Gloucester,Harrison Twp,19,656
+Mercer,Hopewell Twp,58,298
+Gloucester,Greenwich,9,546
+Ocean,Beach Haven,1,1201
+Mercer,Hopewell,1,2744
+Mercer,Hamilton,39,2249
+Gloucester,Franklin Twp,56,299
+Mercer,East Windsor,16,1754
+Gloucester,East Greenwich,14,697
+Ocean,Eagleswood,16,103
+Ocean,Harvey Cedars,1,614
+Ocean,Beachwood,3,3895
+Ocean,Brick,26,2929
+Gloucester,Mantua,16,953
+Essex,Orange,2,13975
+Middlesex,Dunellen,1,7045
+Middlesex,Cranbury,13,293
+Mercer,West Windsor,26,1103
+Gloucester,Deptford,17,1757
+Essex,West Orange,12,3867
+Mercer,Robbinsville,20,686
+Essex,West Caldwell,5,2146
+Mercer,Princeton Twp,16,1013
+Essex,South Orange,3,5683
+Mercer,Pennington,1,2691
+Warren,Pohatcong,13,247
+Warren,Washington,2,3309
+Warren,White,27,177
+Morris,Chatham,2,3828
+Gloucester,Woodbury,2,5017
+Morris,Chatham Twp,9,1183
+Hudson,West New York,1,50954
+Morris,Chester Twp,29,270
+Morris,Denville,12,1414
+Hunterdon,Milford,1,1050
+Morris,East Hanover,8,1433
+Ocean,Point Pleasant,3,5286
+Cumberland,Downe,49,32
+Morris,Hanover,11,1321
+Ocean,Plumsted,40,215
+Essex,Essex Fells,1,1550
+Morris,Harding,20,195
+Gloucester,Elk,19,218
+Ocean,Point Pleasant Beach,1,3270
+Gloucester,Pitman,2,3938
+Camden,Audubon Park,0,6793
+Camden,Lawnside,1,2081
+Cape May,Cape May,2,1488
+Hudson,Weehawken,1,16040
+Middlesex,Jamesburg,1,6776
+Hudson,Union City,1,52925
+Middlesex,Helmetta,1,2579
+Ocean,Lavallette,1,2319
+Hunterdon,Bloomsbury,1,970
+Ocean,Little Egg Harbor,47,429
+Middlesex,Milltown,2,4481
+Hunterdon,Alexandria,27,178
+Ocean,Long Beach,5,563
+Middlesex,Metuchen,3,4961
+Ocean,Manchester,82,527
+Ocean,Mantoloking,0,762
+Middlesex,Edison,30,3370
+Ocean,Ocean Twp,21,414
+Ocean,Pine Beach,1,3503
+Middlesex,Sayreville,16,2763
+Hudson,East Newark,0,24410
+Gloucester,Woolwich,21,523
+Hudson,Hoboken,1,40652
+Middlesex,North Brunswick,12,3435
+Hudson,Guttenberg,0,56780
+Middlesex,Monroe,42,972
+Middlesex,Piscataway,19,3062
+Hudson,North Bergen,5,12078
+Middlesex,Perth Amboy,5,11009
+Hudson,Kearny,9,4719
+Morris,Mendham Twp,18,330
+Morris,Morris Plains,3,2232
+Morris,Florham Park,7,1627
+Morris,Long Hill,12,740
+Morris,Chester,2,1156
+Morris,Dover,3,6831
+Morris,Boonton,2,3618
+Morris,Butler,2,3723
+Morris,Mount Arlington,2,2424
+Morris,Mountain Lakes,3,1632
+Atlantic,Estell Manor,53,33
+Atlantic,Galloway,89,419
+Hunterdon,Flemington,1,4292
+Atlantic,Egg Harbor Twp,67,655
+Hunterdon,Clinton Twp,30,439
+Hunterdon,East Amwell,28,139
+Hunterdon,Califon,1,1109
+Atlantic,Margate,1,4456
+Atlantic,Hammonton,41,361
+Atlantic,Linwood,4,1832
+Union,Scotch Plains,9,2638
+Union,Summit,6,3638
+Warren,Belvidere,1,1817
+Union,Kenilworth,2,3715
+Warren,Franklin Twp,24,130
+Morris,Roxbury,21,1130
+Union,New Providence,4,3402
+Union,Hillside,3,7856
+Union,Linden,11,3828
+Union,Roselle,3,8037
+Union,Mountainside,4,1691
+Union,Rahway,4,7124
+Union,Plainfield,6,8346
+Union,Springfield,5,3262
+Union,Roselle Park,1,10985
+Union,Westfield,7,4559
+Union,Union Twp,9,6298
+Warren,Hackettstown,4,2706
+Warren,Allamuchy,20,218
+Atlantic,Weymouth,12,225
+Bergen,Alpine,6,302
+Bergen,Bergenfield,3,9381
+Bergen,Carlstadt,4,1580
+Atlantic,Mullica,56,110
+Atlantic,Pleasantville,6,3647
+Atlantic,Port Republic,7,149
+Atlantic,Ventnor,2,5444
+Morris,Pequannock,7,2306
+Bergen,Closter,3,2689
+Bergen,Cresskill,2,4199
+Warren,Mansfield,30,255
+Warren,Oxford,6,427
+Warren,Knowlton,25,122
+Warren,Lopatcong,7,1136
+Atlantic,Buena,8,602
+Atlantic,Buena Vista,41,185
+Atlantic,Absecon,5,1553
+Atlantic,Atlantic City,11,3675
+Bergen,Dumont,2,8912
+Bergen,Englewood,5,5622
+Bergen,Englewood Cliffs,2,2554
+Bergen,East Rutherford,4,2420
+Bergen,Elmwood Park,3,7506
+Bergen,Garfield,2,14701
+Bergen,Hackensack,4,10489
+Monmouth,Roosevelt,2,458
+Bergen,Fairview,1,16925
+Monmouth,Sea Bright,1,1901
+Bergen,Franklin Lakes,9,1140
+Monmouth,Ocean Twp,11,2501
+Monmouth,Red Bank,2,7004
+Bergen,Harrington Park,2,2627
+Monmouth,Monmouth Beach,1,3036
+Monmouth,Neptune City,1,5095
+Warren,Independence,20,285
+Monmouth,Marlboro,30,1324
+Warren,Hope,19,103
+Monmouth,Middletown,41,1618
+Monmouth,Long Branch,5,5815
+Monmouth,Manasquan,1,4254
+Atlantic,Hamilton,111,241
+Atlantic,Longport,0,2274
+Atlantic,Somers Point,4,2681
+Monmouth,Sea Girt,1,1703
+Bergen,Allendale,3,2147
+Bergen,Bogota,1,10870
+Bergen,Cliffside Park,1,24867
+Bergen,Demarest,2,2400
+Bergen,Ho-Ho-Kus,2,2379
+Bergen,Haworth,2,1754
+Bergen,Leonia,2,5856
+Bergen,Lodi,2,10779
+Bergen,Lyndhurst,5,4654
+Bergen,Maywood,1,7433
+Bergen,Midland Park,2,4633
+Bergen,Moonachie,2,1647
+Bergen,New Milford,2,7270
+Bergen,Northvale,1,3729
+Monmouth,West Long Branch,3,2978
+Morris,Boonton Twp,8,534
+Monmouth,Shrewsbury Twp,0,11250
+Atlantic,Corbin City,8,65
+Monmouth,Spring Lake Heights,1,3663
+Monmouth,Union Beach,2,3451
+Atlantic,Folsom,8,228
+Monmouth,Upper Freehold,46,149
+Atlantic,Egg Harbor,11,393
+Passaic,Pompton Lakes,3,3827
+Passaic,North Haledon,3,2447
+Passaic,Wayne,24,2310
+Passaic,Ringwood,25,489
+Ocean,Surf City,1,1609
+Ocean,Seaside Heights,1,4665
+Passaic,Haledon,1,7431
+Passaic,Bloomingdale,9,883
+Salem,Elmer,1,1590
+Salem,Mannington,34,54
+Hunterdon,Lebanon Twp,31,206
+Hunterdon,Raritan Twp,38,584
+Hunterdon,Kingwood,35,109
+Hunterdon,Lebanon,1,1506
+Hunterdon,West Amwell,22,175
+Hunterdon,Readington,48,334
+Hunterdon,Tewksbury,32,187
+Hunterdon,Hampton Boro,2,897
+Hunterdon,High Bridge,2,1498
+Hunterdon,Frenchtown,1,1075
+Camden,Tavistock,0,20
+Camden,Winslow,57,684
+Camden,Pine Hill,4,2732
+Camden,Somerdale,1,3768
+Cape May,Stone Harbor,1,610
+Cape May,Lower Township,28,814
+Cape May,Ocean City,6,1821
+Cumberland,Hopewell,30,152
+Cumberland,Commercial,32,162
+Cape May,Wildwood Crest,1,2862
+Cape May,West Cape May,1,874
+Burlington,Springfield,30,114
+Burlington,Westampton,11,798
+Burlington,Woodland,95,19
+Camden,Berlin,4,2119
+Camden,Brooklawn,0,3973
+Camden,Chesilhurst,2,955
+Camden,Gibbsboro,2,1037
+Camden,Gloucester Twp,23,2803
+Camden,Haddonfield,3,4105
+Camden,Oaklyn,1,6384
+Camden,Magnolia,1,4487
+Burlington,Riverton,1,4233
+Burlington,Pemberton,1,2407
+Burlington,Riverside,1,5415
+Burlington,North Hanover,17,447
+Burlington,Palmyra,2,3984
+Burlington,Mount Laurel,22,1930
+Burlington,New Hanover,22,354
+Burlington,Medford,39,597
+Burlington,Mount Holly,3,3335
+Burlington,Southampton,44,239
+Burlington,Shamong,44,146
+Burlington,Medford Lakes,1,3608
+Hunterdon,Union Twp,19,306
+Hunterdon,Stockton,1,993
+Hunterdon,Lambertville,1,3337
+Mercer,Lawrence,22,1523
+Mercer,Trenton,8,11043
+Mercer,Ewing,15,2377
+Mercer,Hightstown,1,4586
+Middlesex,Highland Park,2,7900
+Middlesex,Middlesex Borough,4,3903
+Middlesex,Carteret,4,5444
+Middlesex,East Brunswick,22,2207
+Hudson,Bayonne,6,11106
+Gloucester,Woodbury Heights,1,2483
+Hudson,Jersey City,15,17204
+Hudson,Harrison,1,11562
+Hudson,Secaucus,6,3153
+Hunterdon,Bethlehem,21,188
+Hunterdon,Clinton,1,1992
+Hunterdon,Delaware,37,123
+Hunterdon,Franklin Twp,23,137
+Hunterdon,Glen Gardner,2,1102
+Hunterdon,Holland,24,221
+Gloucester,Paulsboro,2,3179
+Gloucester,Newfield,2,906
+Gloucester,National Park,1,3013
+Gloucester,Monroe,46,789
+Gloucester,Logan,22,274
+Gloucester,West Deptford,15,1396
+Gloucester,Westville,1,4169
+Gloucester,Washington Twp,21,2252
+Gloucester,Wenonah,1,2334
+Gloucester,South Harrison,16,203
+Gloucester,Swedesboro,1,3935
+Essex,Millburn,9,2161
+Essex,Irvington,3,18467
+Cumberland,Upper Deerfield,31,249
+Cumberland,Millville,42,681
+Essex,Cedar Grove,4,2959
+Essex,Belleville,3,10812
+Essex,Roseland,4,1662
+Essex,Verona,3,4852
+Gloucester,Clayton,7,1145
+Gloucester,Glassboro,9,2058
+Essex,North Caldwell,3,2106
+Bergen,Woodcliff Lake,3,1709
+Sussex,Andover Twp,20,315
+Bergen,Wood-Ridge,1,7598
+Somerset,Watchung,6,968
+Bergen,Washington Twp,3,3168
+Bergen,Waldwick,2,4762
+Sussex,Green,16,227
+Sussex,Fredon,18,191
+Sussex,Frankford,34,163
+Burlington,Bordentown,1,4211
+Burlington,Bass River,75,19
+Sussex,Branchville,1,1398
+Sussex,Lafayette,18,140
+Sussex,Montague,44,88
+Sussex,Hamburg,1,2814
+Sussex,Hardyston,32,253
+Bergen,Tenafly,5,3182
+Bergen,Upper Saddle River,5,1575
+Bergen,Saddle Brook,3,5212
+Bergen,South Hackensack,1,3374
+Bergen,Ramsey,6,2668
+Bergen,Paramus,10,2534
+Bergen,Ridgewood,6,4383
+Somerset,Branchburg,20,725
+Bergen,Ridgefield,3,4414
+Bergen,Rochelle Park,1,5361
+Somerset,Franklin Twp,46,1376
+Bergen,River Vale,4,2449
+Somerset,Bridgewater,32,1401
+Somerset,Millstone,1,564
+Bergen,Rutherford,3,6484
+Somerset,Hillsborough,55,713
+Somerset,Montgomery,32,694
+Somerset,Peapack Gladstone,6,442
+Somerset,Rocky Hill,1,1105
+Somerset,Somerville,2,5219
+Somerset,Warren,20,803
+Bergen,Oakland,8,1523
+Bergen,Old Tappan,3,1755
+Bergen,Palisades Park,1,15949
+Monmouth,Wall,31,850
+Monmouth,Tinton Falls,15,1154
+Monmouth,Spring Lake,1,2250
+Monmouth,Rumson,5,1392
+Monmouth,Oceanport,3,1834
+Monmouth,Neptune Twp,8,3409
+Monmouth,Millstone Twp,37,287
+Monmouth,Howell,61,844
+Monmouth,Matawan,2,3877
+Monmouth,Loch Arbour,0,1930
+Monmouth,Keyport,1,5166
+Monmouth,Hazlet,6,3639
+Monmouth,Freehold,2,6204
+Monmouth,Fair Haven,2,3805
+Cumberland,Bridgeton,6,4092
+Cape May,Woodbine,8,307
+Monmouth,Bradley Beach,1,7049
+Cumberland,Fairfield,41,161
+Monmouth,Avon By The Sea,0,4449
+Cumberland,Deerfield,17,186
+Monmouth,Allentown,1,3027
+Monmouth,Aberdeen,5,3334
+Cumberland,Lawrence,37,89
+Middlesex,South River,3,5826
+Cumberland,Greenwich,18,46
+Sussex,Vernon,68,345
+Middlesex,South Brunswick,41,1089
+Sussex,Sussex,1,3573
+Burlington,Maple Shade,4,5041
+Union,Berkeley Heights,6,2154
+Sussex,Walpack,24,1
+Burlington,Fieldsboro,0,1970
+Sussex,Ogdensburg,2,1042
+Burlington,Edgewater Park,3,3068
+Sussex,Stanhope,2,1928
+Burlington,Lumberton,13,970
+Sussex,Sandyston,43,46
+Burlington,Florence,10,1261
+Burlington,Burlington Twp,13,1693
+Burlington,Cinnaminson,8,2188
+Burlington,Delanco,2,1965
+Burlington,Eastampton,6,1059
+Union,Cranford,5,4765
+Union,Elizabeth,12,10264
+Union,Garwood,1,6850
+Burlington,Bordentown Twp,9,1335
+Cumberland,Maurice River,93,87
+Cumberland,Shiloh,1,425
+Cumberland,Stow Creek,18,78
+Cumberland,Vineland,68,889
+Middlesex,New Brunswick,5,10738
+Middlesex,Plainsboro,12,1967
+Morris,Parsippany-Troy Hills,24,2280
+Morris,Randolph,21,1245
+Cape May,Dennis,61,105
+Cape May,Middle Township,70,268
+Cape May,Avalon,4,317
+Cape May,Cape May Point,0,957
+Camden,Woodlynne,0,13482
+Cape May,Wildwood,1,4039
+Cape May,West Wildwood,0,2114
+Cape May,Upper Township,62,197
+Cape May,Sea Isle City,2,967
+Cape May,North Wildwood,2,2279
+Ocean,South Toms River,1,3159
+Ocean,Seaside Park,1,2442
+Morris,Rockaway Twp,41,589
+Morris,Rockaway,2,3133
+Passaic,Clifton,11,7524
+Ocean,Tuckerton,3,1001
+Ocean,Toms River,40,2274
+Ocean,Stafford,46,588
+Morris,Kinnelon,18,578
+Camden,Laurel Springs,0,4130
+Camden,Lindenwold,4,4571
+Camden,Merchantville,1,6365
+Camden,Mount Ephraim,1,5311
+Camden,Waterford,36,297
+Camden,Voorhees,11,2548
+Morris,Netcong,1,3890
+Camden,Pine Valley,1,12
+Camden,Pennsauken,10,3426
+Camden,Stratford,2,4508
+Camden,Runnemede,2,4102
+Morris,Madison,4,3831
+Morris,Lincoln Park,6,1650
+Morris,Mine Hill,3,1252
+Morris,Mendham,6,843
+Morris,Morris Twp,16,1445
+Morris,Montville,18,1175
+Morris,Mount Olive,29,969
+Morris,Morristown,3,6322
+Salem,Oldmans,19,94
+Salem,Pennsville,21,622
+Salem,Elsinboro,12,86
+Salem,Lower Alloways Creek,45,39
+Camden,Berlin Twp,3,1678
+Camden,Camden,9,8660
+Camden,Bellmawr,3,3875
+Camden,Gloucester City,2,4931
+Camden,Collingswood,2,7620
+Camden,Clementon,2,2619
+Camden,Cherry Hill,24,2945
+Camden,Hi-Nella,0,3770
+Camden,Haddon Twp,3,5468
+Camden,Haddon Heights,2,4848
+Somerset,Bernardsville,13,601
+Somerset,Bernards Twp,24,1121
+Salem,Woodstown,2,2224
+Salem,Salem,2,2207
+Salem,Quinton,24,110
+Salem,Pilesgrove,35,115
+Passaic,Hawthorne,3,5672
+Passaic,Little Falls,3,5282
+Passaic,Passaic,3,22291
+Somerset,Bedminster,26,315
+Somerset,South Bound Brook,1,7294
+Warren,Washington Twp,18,370
+Sussex,Stillwater,27,150
+Burlington,Washington Twp,100,7
+Burlington,Tabernacle,49,142
+Burlington,Wrightstown,2,453
+Burlington,Willingboro,8,4114
+Camden,Barrington,2,4283
+Camden,Audubon,1,5895
+Passaic,Woodland Park,3,4199
+Passaic,West Milford,75,346
+Salem,Carneys Point,17,476
+Passaic,Prospect Park,0,12267
+Passaic,Paterson,8,17226
+Passaic,Wanaque,8,1395
+Passaic,Totowa,4,2740
