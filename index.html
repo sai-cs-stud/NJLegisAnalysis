@@ -37,6 +37,12 @@ display: none;
 padding: 80px 20px;
 height: 100%;
 }
+.HomePara{
+  margin-left: 70px;
+  margin-right: 70px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
 ul.ind{
 list-style-type: circle;
 }
@@ -52,9 +58,67 @@ list-style-type: circle;
   display: table;
   clear: both;
 }
+.video{
+  display: block;
+}
+.video_container{
+  text-align: center;
+}
 .source {
   padding-left: 22px;
   text-indent: -22px;
+}
+.dropcontent{
+  display: none;
+}
+iframe#voters_turnout{
+  display: none;
+  width: 100%;
+  padding: 30px 0;
+}iframe#fiscal_resource{
+  display: none;
+  width: 100%;
+  padding: 30px 0;
+}
+iframe#crime{
+  display: none;
+  width: 100%;
+  padding: 30px 0;
+}
+iframe#population{
+  display: none;
+  width: 100%;
+  padding: 30px 0;
+}
+iframe#poverty{
+  display: none;
+  width: 100%;
+  padding: 30px 0;
+}
+iframe#unemployment{
+  display: none;
+  width: 100%;
+  padding: 30px 0;
+}
+iframe#housing{
+  display: none;
+  width: 100%;
+  padding: 30px 0;
+}
+iframe#property_tax{
+  display: none;
+  width: 100%;
+  padding: 30px 0;
+}
+iframe#school_district_finances{
+  display: none;
+  width: 100%;
+  padding: 30px 0;
+}
+iframe#highscool_graduation{
+  display: none;
+  width: 100%;
+  padding: 30px 0;
 }
 </style>
 </head>
@@ -70,98 +134,102 @@ list-style-type: circle;
 
 <div id="Home" class="tabcontent">
 <h2>New Jersey County and Congressional District Data</h2>
-<h4>About</h4>
-<p>Welcome to njcongdata.info. This website contains data that may or may not explain the current state of the New Jersey congressional districts. More specifically, our team has compiled data on the county and congressional district level(House of Representative districts)  in order to investigate the possibility of Gerrymandering due to forces other than simple population statistics(more about Gerrymandering below). The data targeted for gathering included the indicators shown below. An indicator is a quantifiable variable our team decided early on in the data scraping process that may contribute to gerrymandering in New Jersey and thus was worthy enough to collect and represent visually or perform a statistical analysis. All of the information was collected the public database NJdatabook, a Rutgers owned database. See our full list of sources at the bottom if you wish to examine our reference to NJdatabook as well as our use of public domain United States latitude and longitude statistics(for data visualization purposes).
-</p>
-<h4>Our Claim</h4>
-<h3>In short: Politicians are using these indicators to improve party’s chance of winning</h3>
-<p>The districts are drawn up in such a way that locations of partisan population is not the only factor accounted for given large independent voting blocks. We claim there are other census related and financially related factors politicians use to “corner their market” when in power. In other words a party could plan to fight for some people(rhetoric wise) and ignore others in a different district based on how they cut up populations(especially in urban areas). For example, let’s say hypothetically high school graduation levels dropped significantly in a certain area and the issue has been on the airwaves of late. Now if this problem for some unsolvable or unknown reason becomes long-term, politicians could cut up districts based off graduation rate to either heighten the issue’s importance or decrease its importance depending on what is beneficial. Obviously this seems unlikely and far off for something as understandable as highschool graduation rate, but we believe this idea is in practice with more dividing factors such as property tax rates and local wage averages. </p>
-<p>Below we have our indicators. We selected specific columns of data from the many data groups for the year 2012 as well. This year is espiecially useful to conduct statistical analysis as it is the year before the Congressional District map was revised. </p>
-<div class="row">
-  <div class="column">
-    <h4> 2014-2018 Indicators:</h4>
-    <ul class="ind">
-      <li>Crime Rate</li>
-      <li>Population</li>
-      <li>Unemployemnt<li>
-      <li>Poverty<li>
-      <li>Housing</li>
-      <li>Property Tax<li>
-      <li>Fiscal Resources</li>
-      <li>School District Finances<li>
-      <li>School Graduation Rate</li>
-      <li>Voter Turnout</li>
-    </ul>
-  </div>
-  <div class="column">
-    <h4>2012 Indicators:</h4>
-    <ul class="ind">
-      <li>Income Per Taxpayer</li>
-      <li>Municipal Budget Per Capita</li>
-      <li>Average Residential Property Value</li>
-      <li>%Owner Occupied Units</li>
-      <li>%TANF</li>
-      <li>%SNAP Beneficiaries</li>
-      <li>School Tax Rate</li>
-      <li>Property Tax as %Income</li>
-      <li>Registered Voters as %Population</li>
-      <li>%Democrats</li>
-      <li>%Republicans</li>
-      <li>%Voter Turnout</li>
-    </ul>
-  </div>
-</div>
-<h4>What exactly is gerrymandering?</h4>
-<p>Gerrymandering is the process in which the ruling party of government reshapes voting boundaries to favor themselves in future elections. In the United States, every state in the union elects Representatives to represent the wishes of the people in specific geographic areas. These representatives have a duty to speak for their constituents in Washington D.C.(federal capital of the country). Each state has an allotted number of representatives based on the population of the state. How the districts are drawn up geographically within the state is up to the states themselves. Usually there is a neutral or bipartisan committee or commission tasked with this job. However, in some situations a state government’s majority party adulterates the process by forging districts that favor themselves to keep them in the majority. This can be done by making boundaries that put opposition voters in one district or decreasing the opposition’s chances across many districts. Check out the Washington Post video about this issue below to learn more.
-<a href="https://www.state.nj.us/transportation/gis/maps/congressional1220.pdf">Click Here to see New Jersey’s congressional districts!</a>
-</p>
-<iframe width="560" height="315" align=“middle” src="https://www.youtube.com/embed/bGLRJ12uqmk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<h4>Our Process</h4>
-<p>Our team sought to highlight New Jersey’s map through a data driven approach. Our early goal was a two-fold process. Begin gathering data on our list of indicators and update that list based on which indicators are quantifiable. As an example one of our original big idea indicators was the economy. It is possible the economy affects the drawing up of districts, but how do you quantify the economy? Perhaps local GDP? Location of large companies? Per Capita Income? There is no exact answer of course, so we increase our list by breaking down our big ideas into quantifiable variables, which we called indicators throughout this project. After this was complete, our team focused on gathering the data for these indicators. For any missing data, often unavoidable when collecting a large amount of data, we imputed where we could. Considering the maps of New Jersey’s currently active congressional map began its service in 2012, data in the years 2012 and before would host the most telling information on why our maps were drawn up the way they were. However, such data was largely unavailable on our source so we have years 2012, 2014-2018. Using this data, we were able still able to infer about the creation of the current map as well as make an estimate of the new map following restricting in 2022(New Jersey maps stay active for 10 years).</p>
-<h4>Sources</h4>
-  <div class="works_cited">
-    <p class="source">N/A, N/A. “Admin 1- States, Provinces.” Natural Earth Data, Natural Earth, 0AD, www.naturalearthdata.com/downloads/110m-cultural-vectors/110m-admin-1-states-provinces/.</p>
-    <p class="source">
-    The National Atlas of the United States of America. “National Map Small Scale.” Small-Scale Data Download, 6 Sept. 2018, nationalmap.gov/small_scale/atlasftp.html?openChapters=chpbound#chpbound.
+  <div class="HomePara" id="about">
+    <h4>About</h4>
+    <p>&nbsp;&nbsp;&nbsp;&nbsp;Welcome to njcongdata.info. This website contains data that may or may not explain the current state of the New Jersey congressional districts. More specifically, our team has compiled data on the county and congressional district level(House of Representative districts)  in order to investigate the possibility of Gerrymandering due to forces other than simple population statistics(more about Gerrymandering below). The data targeted for gathering included the indicators shown below. An indicator is a quantifiable variable our team decided early on in the data scraping process that may contribute to gerrymandering in New Jersey and thus was worthy enough to collect and represent visually or perform a statistical analysis. All of the information was collected the public database NJdatabook, a Rutgers owned database. See our full list of sources at the bottom if you wish to examine our reference to NJdatabook as well as our use of public domain United States latitude and longitude statistics(for data visualization purposes).
     </p>
-    <p class="source">
-    Reock, Dr. Ernest C. “NJDB.” New Jersey Data Book, Rutgers University, 1991, njdatabook.rutgers.edu/.
+  </div>
+  <div class="HomePara" id="OurClaim">
+    <h4>Our Claim</h4>
+    <h3>In short: Politicians are using these indicators to improve party’s chance of winning</h3>
+    <p>&nbsp;&nbsp;&nbsp;&nbsp;The districts are drawn up in such a way that locations of partisan population is not the only factor accounted for given large independent voting blocks. We claim there are other census related and financially related factors politicians use to “corner their market” when in power. In other words a party could plan to fight for some people(rhetoric wise) and ignore others in a different district based on how they cut up populations(especially in urban areas). For example, let’s say hypothetically high school graduation levels dropped significantly in a certain area and the issue has been on the airwaves of late. Now if this problem for some unsolvable or unknown reason becomes long-term, politicians could cut up districts based off graduation rate to either heighten the issue’s importance or decrease its importance depending on what is beneficial. Obviously this seems unlikely and far off for something as understandable as highschool graduation rate, but we believe this idea is in practice with more dividing factors such as property tax rates and local wage averages. </p>
+    <p>&nbsp;&nbsp;&nbsp;&nbsp;Below we have our indicators. We selected specific columns of data from the many data groups for the year 2012 as well. This year is espiecially useful to conduct statistical analysis as it is the year before the Congressional District map was revised. </p>
+  </div>
+  <div class = "list_container">
+    <div class="row">
+      <div class="column">
+        <h4> 2014-2018 Indicators:</h4>
+        <ul class="ind">
+          <li>Crime Rate</li>
+          <li>Populations</li>
+          <li>Unemployment</li>
+          <li>Poverty</li>
+          <li>Housing</li>
+          <li>Property Tax</li>
+          <li>Fiscal Resources</li>
+          <li>School District Finances</li>
+          <li>Voter Turnout</li>
+        </ul>
+      </div>
+      <div class="column">
+        <h4>2012 Indicators:</h4>
+        <ul class="ind">
+          <li>Income Per Taxpayer</li>
+          <li>Municipal Budget Per Capita</li>
+          <li>Average Residential Property Value</li>
+          <li>%Owner Occupied Units</li>
+          <li>%TANF</li>
+          <li>%SNAP Beneficiaries</li>
+          <li>School Tax Rate</li>
+          <li>Property Tax as %Income</li>
+          <li>Registered Voters as %Population</li>
+          <li>%Democrats</li>
+          <li>%Republicans</li>
+          <li>%Voter Turnout</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+  <div class="HomePara" id="WhatsG">
+    <h4>What exactly is gerrymandering?</h4>
+    <p>&nbsp;&nbsp;&nbsp;&nbsp;Gerrymandering is the process in which the ruling party of government reshapes voting boundaries to favor themselves in future elections. In the United States, every state in the union elects Representatives to represent the wishes of the people in specific geographic areas. These representatives have a duty to speak for their constituents in Washington D.C.(federal capital of the country). Each state has an allotted number of representatives based on the population of the state. How the districts are drawn up geographically within the state is up to the states themselves. Usually there is a neutral or bipartisan committee or commission tasked with this job. However, in some situations a state government’s majority party adulterates the process by forging districts that favor themselves to keep them in the majority. This can be done by making boundaries that put opposition voters in one district or decreasing the opposition’s chances across many districts. Check out the Washington Post video about this issue below to learn more.
+    <a href="https://www.state.nj.us/transportation/gis/maps/congressional1220.pdf">Click Here to see New Jersey’s congressional districts!</a>
     </p>
+    <div class = "video_contaniner">
+      <iframe class ="video" width="560" height="315" align=“middle” src="https://www.youtube.com/embed/bGLRJ12uqmk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    </div>
+  </div>
+  <div class="HomePara" id="OurProcess">
+    <h4>Our Process</h4>
+    <p>&nbsp;&nbsp;&nbsp;&nbsp;Our team sought to highlight New Jersey’s map through a data driven approach. Our early goal was a two-fold process. Begin gathering data on our list of indicators and update that list based on which indicators are quantifiable. As an example one of our original big idea indicators was the economy. It is possible the economy affects the drawing up of districts, but how do you quantify the economy? Perhaps local GDP? Location of large companies? Per Capita Income? There is no exact answer of course, so we increase our list by breaking down our big ideas into quantifiable variables, which we called indicators throughout this project. After this was complete, our team focused on gathering the data for these indicators. For any missing data, often unavoidable when collecting a large amount of data, we imputed where we could. Considering the maps of New Jersey’s currently active congressional map began its service in 2012, data in the years 2012 and before would host the most telling information on why our maps were drawn up the way they were. However, such data was largely unavailable on our source so we have years 2012, 2014-2018. Using this data, we were able still able to infer about the creation of the current map as well as make an estimate of the new map following restricting in 2022(New Jersey maps stay active for 10 years).</p>
+  </div>
+  <div class="HomePara" id="Sources">
+    <h4>Sources</h4>
+    <div class="works_cited">
+      <p class="source">N/A, N/A. “Admin 1- States, Provinces.” Natural Earth Data, Natural Earth, 0AD, www.naturalearthdata.com/downloads/110m-cultural-vectors/110m-admin-1-states-provinces/.</p>
+      <p class="source">
+      The National Atlas of the United States of America. “National Map Small Scale.” Small-Scale Data Download, 6 Sept. 2018, nationalmap.gov/small_scale/atlasftp.html?openChapters=chpbound#chpbound.
+      </p>
+      <p class="source">
+      Reock, Dr. Ernest C. “NJDB.” New Jersey Data Book, Rutgers University, 1991, njdatabook.rutgers.edu/.
+      </p>
+    </div>
   </div>
 </div>
 <div id="Data" class="tabcontent">
-<div class="contain_data">
-    <div id="voters_turnout" class="dropcontent">
-      <iframe width=100% height="1000px"src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTakR1wL288y8wIp7GbA9R6zMXqEi9w89KD38SCPh3KdZnzacc0WMI97Heco7IpM0zdKuKwIyt9RyVG/pubhtml?gid=1587438081&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
-  </div>
-    <div id ="fiscal_resource"class="dropcontent">
-      <iframe width=100% height="1000px"src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSHLQ_emVvWP1gqBnpCp--nFVvkzIKtI7cSCHkAnuHNOGJT0AC9CJkxw9v0UX9tpK2wgR4ApRl707Jz/pubhtml?gid=133598185&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
-    </div>
-    <div id ="crime"class="dropcontent">
-      <iframe width=100% height="1000px" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQS9MyqePfCniBGJ4f9n0s4f-TUpAoiutCpCaU9HsS60p1zkViolvAn5217qctMNiCr_M-mZGH7pjh-/pubhtml?gid=1088319607&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
-    </div>
-    <div id ="population"class="dropcontent">
-      <iframe width=100% height="1000px" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRQiuwAYU5oTxgaEKdO14NypVQGnYddoKjmblbVTQOWolOm2wBfsIHWUO2c-dReZTavy8eTMXbsW5PT/pubhtml?gid=1981415953&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
-    </div>
-    <div id ="poverty"class="dropcontent">
-      <iframe width=100% height="1000px" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vR8FSYnH0EnlkIsN9SDRhiG3YD0CuJBABwd1gTJDsV4PPn_kLmg8V6h-0hpbrHeqW6ndz_V5D9Dy2xp/pubhtml?gid=1424319235&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
-    </div>
-    <div id ="unemployment"class="dropcontent">
-      <iframe width=100% height="1000px" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTC07F9QxNdP1UmsL7mYN9njEpdGXsE0b_vcKqiEl_pWDqrPCzkATatDEgjrd0s2-PwG4KkBNhjSkqH/pubhtml?gid=1673553500&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
-    </div>
-    <div id ="housing"class="dropcontent">
-      <iframe width=100% height="1000px" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTwjyb8x-E-S9GqPTd_8a7G0TRbhxfDrV7FuVBy82EYQA-DVDH5AV8TQIzC2huwE8bOc9N7z5Mv2eI4/pubhtml?gid=1890940530&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
-    </div>
-    <div id ="property_tax"class="dropcontent">
-      <iframe width=100% height="1000px" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTZawrTZlI4F7f68OeZrp0KQ3ZP2REHUdAzn5MHIJUhLlMwPzj0ANkj-U2II9LU8HtpbIrEkVMxU5C6/pubhtml?gid=222724817&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
-    </div>
-    <div id ="school_district_finances"class="dropcontent">
-      <iframe width=100% height ="1000px" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQ_53YxX4dsWsESq7FRH7VKvWcBHAGRtOl7Bb_FuLBax4lvnkU4O5DXPMFfOHNFxFP-KoJ_5fcKGvGz/pubhtml?gid=1491785932&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
-    </div>
-    <div id ="highscool_graduation"class="dropcontent">
-      <iframe width=100% height="1000px" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vST0PpgX9IQbitUblvpXRCF9TRVrpcKN1Lf7x5UEDwdjnKmoqfGVuJ6iEZ83z1v094_ysO3V8bQibwT/pubhtml?gid=1235463880&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
-    </div>
-</div>
+  <h3> Click an indicator below to view data </h3>
+  <h5> NOTE: Wait a few moments while google sheet loads</h5>
+  <button  class ="data_button" onclick="openDrop('iframe#voters_turnout')">Voter Turnout</button>
+  <button  class ="data_button" onclick="openDrop('iframe#fiscal_resource')">Fiscal Resources</button>
+  <button  class ="data_button" onclick="openDrop('iframe#crime')">Crime</button>
+  <button  class ="data_button" onclick="openDrop('iframe#population')">Population</button>
+  <button  class ="data_button" onclick="openDrop('iframe#poverty')">Poverty</button>
+  <button  class ="data_button" onclick="openDrop('iframe#unemployment')">Unemployment</button>
+  <button  class ="data_button" onclick="openDrop('iframe#housing')">Housing</button>
+  <button  class ="data_button" onclick="openDrop('iframe#property_tax')">Property Tax rates</button>
+  <button  class ="data_button" onclick="openDrop('iframe#school_district_finances')">School District Finances</button>
+  <button  class ="data_button" onclick="openDrop('iframe#highscool_graduation')">Highschool Graduation Levels</button>
+
+      <iframe id ="voters_turnout" width=100% height="1000px"src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTakR1wL288y8wIp7GbA9R6zMXqEi9w89KD38SCPh3KdZnzacc0WMI97Heco7IpM0zdKuKwIyt9RyVG/pubhtml?gid=1587438081&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+      <iframe id ="fiscal_resource" width=100% height="1000px"src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSHLQ_emVvWP1gqBnpCp--nFVvkzIKtI7cSCHkAnuHNOGJT0AC9CJkxw9v0UX9tpK2wgR4ApRl707Jz/pubhtml?gid=133598185&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+      <iframe id ="crime" width=100% height="1000px" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQS9MyqePfCniBGJ4f9n0s4f-TUpAoiutCpCaU9HsS60p1zkViolvAn5217qctMNiCr_M-mZGH7pjh-/pubhtml?gid=1088319607&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+      <iframe id ="population" width=100% height="1000px" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRQiuwAYU5oTxgaEKdO14NypVQGnYddoKjmblbVTQOWolOm2wBfsIHWUO2c-dReZTavy8eTMXbsW5PT/pubhtml?gid=1981415953&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+      <iframe id ="poverty" width=100% height="1000px" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vR8FSYnH0EnlkIsN9SDRhiG3YD0CuJBABwd1gTJDsV4PPn_kLmg8V6h-0hpbrHeqW6ndz_V5D9Dy2xp/pubhtml?gid=1424319235&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+      <iframe id ="unemployment" width=100% height="1000px" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTC07F9QxNdP1UmsL7mYN9njEpdGXsE0b_vcKqiEl_pWDqrPCzkATatDEgjrd0s2-PwG4KkBNhjSkqH/pubhtml?gid=1673553500&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+      <iframe id ="housing" width=100% height="1000px" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTwjyb8x-E-S9GqPTd_8a7G0TRbhxfDrV7FuVBy82EYQA-DVDH5AV8TQIzC2huwE8bOc9N7z5Mv2eI4/pubhtml?gid=1890940530&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+      <iframe id ="property_tax" width=100% height="1000px" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTZawrTZlI4F7f68OeZrp0KQ3ZP2REHUdAzn5MHIJUhLlMwPzj0ANkj-U2II9LU8HtpbIrEkVMxU5C6/pubhtml?gid=222724817&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+      <iframe id ="school_district_finances"width=100% height ="1000px" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQ_53YxX4dsWsESq7FRH7VKvWcBHAGRtOl7Bb_FuLBax4lvnkU4O5DXPMFfOHNFxFP-KoJ_5fcKGvGz/pubhtml?gid=1491785932&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+      <iframe id ="highscool_graduation" width=100% height="1000px" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vST0PpgX9IQbitUblvpXRCF9TRVrpcKN1Lf7x5UEDwdjnKmoqfGVuJ6iEZ83z1v094_ysO3V8bQibwT/pubhtml?gid=1235463880&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
 </div>
 <div id="DataVis" class="tabcontent">
 <h4>Coming soon!</h4>
