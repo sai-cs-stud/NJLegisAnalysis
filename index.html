@@ -260,5 +260,15 @@ function openTab(tabName,elmnt){
 }
 document.getElementById("defaultOpen").click();
 </script>
+<script>
+function openDrop(frameName) {
+  var x = document.querySelector(frameName);
+  if (x.style.display == "none") {
+    x.style.display = "block";
+  } else {
+    x.style.display = "none";
+  }
+}
+</script>
 </body>
 </html>
